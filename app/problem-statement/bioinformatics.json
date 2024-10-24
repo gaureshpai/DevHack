@@ -1,0 +1,33 @@
+{
+    "domain": "Bioinformatics",
+    "faqs": [
+        {
+            "statementHeading": "PS07(1) : Cancer Biomarker Identification",
+            "problemStatement": "Develop a pipeline to identify and validate biomarkers for early cancer detection from high-throughput omics data (e.g., genomics, proteomics, metabolomics). The solution should include data integration, statistical analysis, and validation using public databases and clinical samples."
+        },
+        {
+            "statementHeading": "PS07(2) : Adaptive Immune System Modeling",
+            "problemStatement": "Develop a computational model of the adaptive immune system that simulates immune responses to infections and vaccines. The solution should use machine learning and bioinformatics techniques to predict immune responses, aiding in vaccine development and immunotherapy research."
+        },
+        {
+            "statementHeading": "PS07(3) : Portable DNA Sequencer for Personalized Medicine",
+            "problemStatement": "Develop a compact and easy-to-use device for quick and accessible DNA sequencing."
+        },
+        {
+            "statementHeading": "PS07(4) : AI-powered Protein Folding Simulator",
+            "problemStatement": "Build a hardware solution that uses AI to accelerate protein folding simulations for drug discovery."
+        },
+        {
+            "statementHeading": "PS07(5) : Low-cost Lab-on-a-chip for Disease Diagnosis",
+            "problemStatement": "Design a miniaturized device that performs complex biological analyses at the point of care."
+        },
+        {
+            "statementHeading": "PS07(6) : Genomic Data Analysis for Disease Prediction",
+            "problemStatement": "Develop a tool that can analyze genomic sequences to predict the likelihood of developing certain genetic diseases. The solution should include data preprocessing, feature selection, and predictive modeling using machine learning algorithms. Emphasis should be on creating an intuitive user interface for researchers and clinicians."
+        },
+        {
+            "statementHeading": "PS07(7) : Biocompatible Sensor for Real-time Health Monitoring",
+            "problemStatement": "Create a sensor that can be implanted to continuously monitor specific health markers in the body."
+        }
+    ]
+}

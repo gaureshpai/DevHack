@@ -1,0 +1,46 @@
+{
+    "domain": "Smart Automation (IoT)",
+    "faqs": [
+      {
+        "statementHeading": "PS09(1) : AI based Real-time alternative routes detection for the Ambulance while in traffic",
+        "problemStatement": "Congestion of roads is due to huge number of vehicles in use and also due to over population. This system intends to implement a model which detects the traffic congestion on the road and intimate this information to the ambulance driver well in advance through mobile app to take another route."
+      },
+      {
+        "statementHeading": "PS09(2) : Design and development of IOT based smart garage door opener",
+        "problemStatement": "Regular door opening and closing need manual physical power. It is ok when normal home doors. Particularly in garages door are heavy and big size. It should be digitized using AI application. The system should control the electronic doors and later may be extended to control from remote location."
+      },
+      {
+        "statementHeading": "PS09(3) : Automated Notes Maker from Audio Recordings",
+        "problemStatement": "In the present industry, communication is the key element to progress. Passing on information, to the right person, and in the right manner is very important, not just on a corporate level, but also on a personal level. The world is moving towards digitization, so are the means of communication. Phone calls, emails, text messages etc. have become an integral part of message conveyance in this tech-savvy world. In order to serve the purpose of effective communication between two parties without hindrances, many applications have come to picture, which acts as a mediator and help in effectively carrying messages in form of text, or speech signals over miles of networks. Most of these applications find the use of conversion from speech signals to text. Devise a way for the conversion of voice-based recording of online lessons to PDF/Word Documents. Compare the accuracy of what is spoken in the voice-based recording to the text in converted PDF/Word Document. The project aims to provide students with text-based PDF/Word Document of their online classes given they are voice based in nature. The accuracy must of the proposed solution must be taken into account."
+      },
+      {
+        "statementHeading": "PS09(4) : Develop a system which can read and analyze handwritten text and convert it into normal editable text.",
+        "problemStatement": "A mechanism is required that can analyze handwritten text and then convert it into the editable text either in the respective local language or English."
+      },
+      {
+        "statementHeading": "PS09(5) : Simplifying Attendance during Examination & Evaluation process through Online tracking process",
+        "problemStatement": "Build a web application to simplify Examination, Attendance and tracking Evaluation process Students commit errors while filling up the attendance detail may lead to greater difficulty in identifying the answer booklets at the time of Evaluation process. Technical staff / Support staff at examination center may also commit errors while typing answer booklet numbers. It becomes greater difficulty while decoding the Barcodes of the answer booklets. The Web application /Mobile application may be introduced to get the attendance detail (Present/Absent) and it can be linked with the student data for the purpose of attendance entry. The same data may also be shared to the Evaluation center for Coding and Decoding of the Answer booklets."
+      },{
+        "statementHeading": "PS09(6) : Land Revenue Survey Number Finder Based on Current Location",
+        "problemStatement": "Design a mobile application that can identify the revenue survey number or block number of the land where a person is located. By utilizing GPS technology, users should be able to discover both the survey number and sub-survey number for specific agricultural and non-agricultural land. When the user clicks on the current location's survey number, they should be able to access various details about the land, such as its type (Agri/Non Agri, JuniSharat/NaviSharat), a map of the land, and its area."
+      },{
+        "statementHeading": "PS09(7) : English-to-Hindi Website Translator",
+        "problemStatement": "This website proposes creating a physical device, possibly a dedicated tool or software, to translate content on websites from English to Hindi. This could be helpful for public and government organizations who want to ensure their websites are accessible to a wider audience."
+      },{
+        "statementHeading": "PS09(8) : Digital Platform for Coal Transport",
+        "problemStatement": "This idea focuses on developing a robust and scalable digital platform specifically for managing intermodal coal transportation. Intermodal transportation involves moving goods using multiple modes of transport, like railways, trucks, and ships. This platform could potentially streamline logistics and improve efficiency in the coal industry."
+      },{
+        "statementHeading": "PS09(9) : Railway Rake Management System",
+        "problemStatement": "This project aims to develop a system for optimizing the use of railway rakes. Rakes are groups of connected wagons used to transport goods by train. An efficient system could help manage the allocation and movement of rakes, potentially improving railway freight operations."
+      },{
+        "statementHeading": "PS09(10) : Data Collection System for Chemical Industries",
+        "problemStatement": "This idea proposes a system to collect and organize data from chemical and petrochemical industries across the country. This centralized data could provide valuable insights for decision-making and industry analysis."
+      },{
+        "statementHeading": "PS09(11) : AI-powered Feedback Tool for News Media",
+        "problemStatement": "This project focuses on developing software using Artificial Intelligence (AI), Machine Learning (ML), and Data Science to analyze news stories related to the Government of India in regional media. The software could potentially provide feedback on the accuracy and fairness of the reporting."
+      },{
+        "statementHeading": "PS09(12) : Offline Language Tool",
+        "problemStatement": "This idea is a bit more conceptual. It proposes developing a tool that functions even without an internet connection and offers basic functionalities. The tool would likely leverage a pre-loaded language model (LLM) to potentially translate languages or perform basic text analysis tasks even when offline."
+      }
+    ]
+  }

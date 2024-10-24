@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+  width: 15px;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-track{
+  background: #0a085c;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb{
+  background: linear-gradient(180deg,#000000,#0a085c)
+
+  
+}

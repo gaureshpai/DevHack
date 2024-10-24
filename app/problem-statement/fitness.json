@@ -1,0 +1,62 @@
+{
+    "domain": "Fitness and Healthcare",
+     "faqs": [
+       {
+         "statementHeading": "PS02(1) : Smart Ambulance Booking System",
+         "problemStatement": "Smart Ambulance Booking Ambulance services are important for Health & Medical facilities. Requirement is to build a mobile app similar to Ola / Uber cab services. But it will be for Ambulance services. This app will have Ambulance driver’s register their availability and location. Both Executive at Emergency Helpline and User’s on the other hand on App’s Client interface will book an ambulance. This will promise a fast and reliable ambulance service in case of emergency. Teams are expected to come up with a Web or Mobile app in which:  1. User can register and book ambulance from any location anytime (24*7). 2. Easy Payment method. 3. Nearest hospital information should be incorporated."
+       },
+       {
+         "statementHeading": "PS02(2) : Smart application for identifying risk factors and providing guidance for diabetes as a Non-Communicable Diseases (NCDs)",
+         "problemStatement": "NCDs like diabetes which is expected to increase in the coming years in India. They are caused by an individual or combination of genetic, environmental, and behavioral factors and can devastate individuals, families, and communities. Early detection and proper guidance of NCDs can help to improve the preventive outcomes. A user-friendly smart health monitoring and guidance providing application for diabetes could be used to identify risk factors and providing information for preventive measure."
+       },
+       {
+         "statementHeading": "PS02(3) : E-prescription",
+         "problemStatement": "Using prescription drugs to provide medicine in the treatment of diseases is one of the most powerful tools in the treatment of diseases. The electronic prescription (E-Prescription) system improves the many problems of paper transcription and saves and reduces the cost of care, reduces prescription errors, medication errors,and improves medication and patient health. A smart system to be developed for the said context."
+       },
+       {
+         "statementHeading": "PS02(4) : Medical Alert generation for elderly people",
+         "problemStatement": "A bed ridden patient or elderly patient may be monitored for different medicalparameters using different sensors. As the data crosses a certain threshold then the related healthcare person may be alerted. Sensors or sensor generated data may be used. Cloud and NoSQL stores can also be used for this process."
+       },
+       {
+         "statementHeading": "PS02(5) : An automated question- answer session to collect medical parameters, medical complaints",
+         "problemStatement": "A probable system where  patient may be asked questions to find out status of his/ her medical parameters, complaint, clinical Signs, Clinical symptoms and Clinical assessment to prepare a medical note automatically. A question will be asked on the basis of last questions and answers."
+       },{
+         "statementHeading": "PS02(6) : Identifying Autism or ADHD in school-aged children",
+         "problemStatement": "Students with conditions such as autism or ADHD often show very mild symptoms early on, making early and accurate diagnosis challenging. Current physiological and psychiatric tests often do not provide reliable diagnoses at an early age. Additionally, there are limited digital tools available to enhance the learning capabilities of these students. This project aims to develop a platform that utilizes digital technologies to detect conditions such as autism or ADHD when symptoms are mild and more manageable. The platform also seeks to offer digital resources to help children with special needs achieve parity with their peers."
+       },{
+         "statementHeading": "PS02(7) : Development of a Medical Chatbot for Pregnant Women with Language Translation Facilities",
+         "problemStatement": "Develop an intelligent chatbot tailored for pregnant women that offers personalized medical advice and information. The chatbot should be equipped with robust language translation features to ensure accessibility across diverse linguistic demographics. The objective is to provide 1. Medical Guidance, 2. Personalization, 3. Language Translation, 4. User Interface, 5. Integration, 6. Privacy and Security."
+       },{
+         "statementHeading": "PS02(8) : Build an application that can calculate SpO2, Blood Pressure, Stress or any other possible body vitals using a Smartphone. Applications that can help do screening for any conditions for people to take a decision to do a doctor consultation are also welcome",
+         "problemStatement": "Build an application that can calculate SpO2, Blood Pressure, Stress or any other possible body vitals using a Smartphone. Applications that can help do screening for any conditions for people to take a decision to do a Dr consultation are also welcome. Description: Problem Statement 2: Every day, millions of individuals use portable health devices to keep a track of Health Metrics such as Heart Rate, SpO2, and others. But this can be facilitated by using a commonly available Smartphone and its capabilities. Build an application that can calculate SpO2, Blood Pressure, Stress or any other possible body vitals using a Smartphone. Applications that can help do screening for any conditions for people to take a decision to do a Dr consultation are also welcome. Key Objectives: 1. Number of Useful vital captured 2. Accuracy of the obtained data 3. Consistency of observations 4. Compatibility across devices 5. Engaging UI/UX 6. Data standardization / insights 7. Extendibility."
+       },
+       {
+        "statementHeading": "PS02(9) : To develop software to identify famous local things at particular villages",
+        "problemStatement": "To develop a software through which we can search each and every famous thing (i.e. famous place, food, fruit, handicraft, etc.) at each village/city. Objective: a) To be able to give farming related information like weather updates, suitable crops based on region. b) To be able to give all the information in the local Indian languages. To help boost tourism in our country and help people with self-employment, the Government requires an application through which we can search each and every famous thing(i.e. famous place, food, fruit, handicraft, etc.) at each village/city. By having this information the tourists can easily visit the places."
+      },
+      {
+        "statementHeading": "PS02(10) : Interpreting Doctors notes using handwriting recognition and Deep Learning techniques",
+        "problemStatement": "Solution to digitize the handwritten prescriptions, doctor notes, lab reports, which can also help to integrate tightly with other healthcare systems for seamless digitization and data flow. Standardized forms can also be made machine readable with support for multiple local Indian languages to make digitization much simpler."
+      },
+      {
+        "statementHeading": "PS02(11) : Computerized Cognitive Retraining Program for Home Training of Children with Disabilities",
+        "problemStatement": "The 'Computerized Cognitive Retraining Program for Home Training of Children with Disabilities' seeks to create an engaging, user-friendly software application that will improve cognitive capabilities such as memory, attention, problem-solving, and executive function. The program has a customized interface, several cognitive exercises, progress tracking, and real-time feedback. It supports a variety of disabilities with accessibility features such as text-to-speech and alternative input techniques. Parents and caregivers can adapt training regimens to their child's specific needs, measure progress, and obtain tools for effective home training. The program protects data confidentiality and privacy while providing a comprehensive solution to enhance cognitive development in children with disabilities."
+      },
+      {
+        "statementHeading": "PS02(12) :  Al-based method for preliminary diagnosis of dermatological symptoms",
+        "problemStatement": "The AI-based Tool for Preliminary Diagnosis of Dermatological Manifestations (SIH1344) intends to create a software application that uses powerful AI and machine learning algorithms to evaluate skin photos and make preliminary diagnosis of dermatological diseases. The application has a simple interface that allows healthcare providers to quickly record and analyze images. It accurately detects common skin disorders like eczema, psoriasis, acne, and skin cancer, providing fast feedback and possible diagnoses. This software helps with early detection and treatment, improving the efficiency of dermatological care and assisting healthcare workers in making educated decisions."
+      },
+      {
+        "statementHeading": "PS01(13) : A software solution for monitoring, assessing, and tracking children's mental health and wellbeing",
+        "problemStatement": "Mental Health and Well-being Surveillance, Assessment, and Tracking Solution among Children is a software application designed to monitor, assess, and track the mental health and well-being of children. It features a user-friendly interface that allows for regular mental health assessments through questionnaires, interactive activities, and behavioral tracking. The software uses data analytics to identify patterns and potential issues, providing real-time feedback and actionable insights for parents, caregivers, and healthcare professionals. It aims to facilitate early intervention and continuous support, enhancing the overall mental well-being of children through comprehensive and personalized monitoring."
+      },
+      {
+        "statementHeading": "PS01(14) : Creating a Hardware/Software System for Patient Care in the Health Sector",
+        "problemStatement": "The 'System for Patient Care in the Health Sector' involves developing an integrated hardware and software solution to enhance patient care. The system includes a comprehensive patient monitoring platform that collects real-time health data through wearable devices and sensors, tracks vital signs, and alerts healthcare providers to any abnormalities. The software component provides an intuitive interface for healthcare professionals to access patient records, analyze data, and coordinate care. It also includes features for patient scheduling, telemedicine support, and secure communication between patients and providers. This solution aims to improve the efficiency and effectiveness of patient care, ensuring timely interventions and better health outcomes."
+      },
+      {
+        "statementHeading": "PS01(15) : X Ray analyzer using deep learning",
+        "problemStatement": "Develop a deep learning model to analyze X-ray images from various perspectives (top, side, lattice) to predict the following: a) The gender of the person (classification), b) The age of the person (regression), c)Possible regions of anomalies (segmentation/detection) and make a web application over it."
+      }
+     ]
+   }

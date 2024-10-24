@@ -1,0 +1,21 @@
+.underline-animation {
+    position: relative;
+  }
+  
+  .underline-animation::after {
+    content: '';
+    position: absolute;
+    bottom: -7px;
+    left: -2px;
+    right: -2px;
+    height: 4px;
+    background-color: #6366f1;
+    border-radius: 9999px;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s ease-out;
+  }
+  
+  .underline-animation:hover::after {
+    transform: scaleX(1);
+  }

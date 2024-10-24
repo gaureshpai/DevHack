@@ -1,0 +1,403 @@
+[
+    {
+        "domain": "Cybersecurity",
+         "faqs": [
+           {
+             "statementHeading": "PS01(1) : Design an app to develop Network Traffic Analyzer",
+             "problemStatement": "Packet Sniffing,or network traffic analysis and monitoring, involves overseeing all network traffic, activity, and availability. This practice is crucial for detecting anomalies, identifying operational issues, and comparing real-time network data with historical data to identify potential threats and issues. Design a project that will analyze the data packets sent across the network, compile a report based on your findings, and propose countermeasures if anomalies are found."
+           },
+           {
+             "statementHeading": "PS01(2) : Design an app to develop Dark Web Crawler",
+             "problemStatement": "Design and develop an AI-enabled technological solution for actionable Crime Intelligence from the Deep and Dark Web including but not limited to child pornography, weapons, drugs etc. The solution should have the capability to raise demands for additional information from clear-net and proprietary databases viz. TSPs/ISPs for attempting correlation and attribution."
+           },
+           {
+             "statementHeading": "PS01(3) : Design an app to develop women safety app",
+             "problemStatement": "Design and develop a Women safety app that automatically senses the danger to a mobile user and triggers an SOS alert with location details based on multimodal data from a mobile device such as audio, video, image, motion detection etc., given a situation that the user is not able to operate the mobile."
+           },
+           {
+             "statementHeading": "PS01(4) : Citizen safety app for protection against cyber crimes",
+             "problemStatement": "Developing an App to flag malicious/ fraud indicators in real-time. a) Mobile Number b) SMS Headers c) URL Links. d) UPI addresses e) Bit coin Wallet Address etc. f) SMS Templates"
+           },
+           {
+             "statementHeading": "PS01(5) : An online tracking mechanism for identification of websites/apps infringing copyrights of the content producers such as broadcasters, OTT platforms, etc.",
+             "problemStatement": "An online media tracking mechanism that may read information on webpages, and identify possible instances of piracy on digital media may be developed. Such a system may be developed and operated in collaboration with the Indian Media & Entertainment industry. At the input, content producers may feed various details and metadata related to a particular piece of copyright content. This information may be compared with the information tracked through the online mechanism to identify and flag potential cases of copyright violation. With final confirmation from the broadcasters, further tracking of a concerned website may be undertaken to identify it as an infringing website. Over a period of time, a dynamic Infringing Website List (IWL) may be developed and maintained. The system may send notifications to online advertising intermediaries (such as Google, Facebook, Amazon, etc.) for blacklisting of such websites (and their IP addresses) from receiving any future ads, thereby discouraging online piracy in India."
+           },{
+             "statementHeading": "PS01(6) : Malicious mobile application analysis and identification",
+             "problemStatement": " It's typical practice in today's environment to use different mobile applications for different purposes. As a result, smartphone users wind up with an excessive number of programs over time. Users hardly ever remove programs they aren't using. It is incredibly easy for any malicious application to remain undetected. Therefore, it is necessary to create a mobile app tool that can identify several signs of penetration in cellphones using threat feeds and open-source information. The program can verify network traffic to suspect IP addresses, suspicious URLs, suspicious inbound connections, and suspicious packets from suspicious apps."
+           },{
+             "statementHeading": "PS01(7) : Create and implement a customized online meeting platform for AICTE",
+             "problemStatement": "To develop a personalized online meeting system for AICTE, a robust architecture is required, incorporating server infrastructure (application, web, database, media, and storage servers) and a comprehensive database (user management, meeting data, media storage). APIs for authentication, meeting management, real-time communication, and file sharing are essential, alongside user-friendly web and mobile interfaces. The backend infrastructure will handle user management, meeting scheduling, real-time communication via Web Sockets, and secure file sharing. Video conferencing capabilities will be integrated using WebRTC for real-time video and audio communication. Security measures will include encryption of data in transit and at rest, user authentication, access controls, and secure storage of meeting recordings, ensuring compliance with privacy regulations."
+           },{
+             "statementHeading": "PS01(8) : Blockchain-based Identity Management",
+             "problemStatement": "Design a decentralized identity management system using blockchain technology to securely verify and authenticate users' identities, reducing the risk of identity theft and fraud in online transactions."
+           }
+         ]
+       },
+       {
+        "domain": "Fitness and Healthcare",
+         "faqs": [
+           {
+             "statementHeading": "PS02(1) : Smart Ambulance Booking System",
+             "problemStatement": "Smart Ambulance Booking Ambulance services are important for Health & Medical facilities. Requirement is to build a mobile app similar to Ola / Uber cab services. But it will be for Ambulance services. This app will have Ambulance driver’s register their availability and location. Both Executive at Emergency Helpline and User’s on the other hand on App’s Client interface will book an ambulance. This will promise a fast and reliable ambulance service in case of emergency. Teams are expected to come up with a Web or Mobile app in which:  1. User can register and book ambulance from any location anytime (24*7). 2. Easy Payment method. 3. Nearest hospital information should be incorporated."
+           },
+           {
+             "statementHeading": "PS02(2) : Smart application for identifying risk factors and providing guidance for diabetes as a Non-Communicable Diseases (NCDs)",
+             "problemStatement": "NCDs like diabetes which is expected to increase in the coming years in India. They are caused by an individual or combination of genetic, environmental, and behavioral factors and can devastate individuals, families, and communities. Early detection and proper guidance of NCDs can help to improve the preventive outcomes. A user-friendly smart health monitoring and guidance providing application for diabetes could be used to identify risk factors and providing information for preventive measure."
+           },
+           {
+             "statementHeading": "PS02(3) : E-prescription",
+             "problemStatement": "Using prescription drugs to provide medicine in the treatment of diseases is one of the most powerful tools in the treatment of diseases. The electronic prescription (E-Prescription) system improves the many problems of paper transcription and saves and reduces the cost of care, reduces prescription errors, medication errors,and improves medication and patient health. A smart system to be developed for the said context."
+           },
+           {
+             "statementHeading": "PS02(4) : Medical Alert generation for elderly people",
+             "problemStatement": "A bed ridden patient or elderly patient may be monitored for different medicalparameters using different sensors. As the data crosses a certain threshold then the related healthcare person may be alerted. Sensors or sensor generated data may be used. Cloud and NoSQL stores can also be used for this process."
+           },
+           {
+             "statementHeading": "PS02(5) : An automated question- answer session to collect medical parameters, medical complaints",
+             "problemStatement": "A probable system where  patient may be asked questions to find out status of his/ her medical parameters, complaint, clinical Signs, Clinical symptoms and Clinical assessment to prepare a medical note automatically. A question will be asked on the basis of last questions and answers."
+           },{
+             "statementHeading": "PS02(6) : Identifying Autism or ADHD in school-aged children",
+             "problemStatement": "Students with conditions such as autism or ADHD often show very mild symptoms early on, making early and accurate diagnosis challenging. Current physiological and psychiatric tests often do not provide reliable diagnoses at an early age. Additionally, there are limited digital tools available to enhance the learning capabilities of these students. This project aims to develop a platform that utilizes digital technologies to detect conditions such as autism or ADHD when symptoms are mild and more manageable. The platform also seeks to offer digital resources to help children with special needs achieve parity with their peers."
+           },{
+             "statementHeading": "PS02(7) : Development of a Medical Chatbot for Pregnant Women with Language Translation Facilities",
+             "problemStatement": "Develop an intelligent chatbot tailored for pregnant women that offers personalized medical advice and information. The chatbot should be equipped with robust language translation features to ensure accessibility across diverse linguistic demographics. The objective is to provide 1. Medical Guidance, 2. Personalization, 3. Language Translation, 4. User Interface, 5. Integration, 6. Privacy and Security."
+           },{
+             "statementHeading": "PS02(8) : Build an application that can calculate SpO2, Blood Pressure, Stress or any other possible body vitals using a Smartphone. Applications that can help do screening for any conditions for people to take a decision to do a doctor consultation are also welcome",
+             "problemStatement": "Build an application that can calculate SpO2, Blood Pressure, Stress or any other possible body vitals using a Smartphone. Applications that can help do screening for any conditions for people to take a decision to do a Dr consultation are also welcome. Description: Problem Statement 2: Every day, millions of individuals use portable health devices to keep a track of Health Metrics such as Heart Rate, SpO2, and others. But this can be facilitated by using a commonly available Smartphone and its capabilities. Build an application that can calculate SpO2, Blood Pressure, Stress or any other possible body vitals using a Smartphone. Applications that can help do screening for any conditions for people to take a decision to do a Dr consultation are also welcome. Key Objectives: 1. Number of Useful vital captured 2. Accuracy of the obtained data 3. Consistency of observations 4. Compatibility across devices 5. Engaging UI/UX 6. Data standardization / insights 7. Extendibility."
+           },
+           {
+            "statementHeading": "PS02(9) : To develop software to identify famous local things at particular villages",
+            "problemStatement": "To develop a software through which we can search each and every famous thing (i.e. famous place, food, fruit, handicraft, etc.) at each village/city. Objective: a) To be able to give farming related information like weather updates, suitable crops based on region. b) To be able to give all the information in the local Indian languages. To help boost tourism in our country and help people with self-employment, the Government requires an application through which we can search each and every famous thing(i.e. famous place, food, fruit, handicraft, etc.) at each village/city. By having this information the tourists can easily visit the places."
+          },
+          {
+            "statementHeading": "PS02(10) : Interpreting Doctors notes using handwriting recognition and Deep Learning techniques",
+            "problemStatement": "Solution to digitize the handwritten prescriptions, doctor notes, lab reports, which can also help to integrate tightly with other healthcare systems for seamless digitization and data flow. Standardized forms can also be made machine readable with support for multiple local Indian languages to make digitization much simpler."
+          },
+          {
+            "statementHeading": "PS02(11) : Computerized Cognitive Retraining Program for Home Training of Children with Disabilities",
+            "problemStatement": "The 'Computerized Cognitive Retraining Program for Home Training of Children with Disabilities' seeks to create an engaging, user-friendly software application that will improve cognitive capabilities such as memory, attention, problem-solving, and executive function. The program has a customized interface, several cognitive exercises, progress tracking, and real-time feedback. It supports a variety of disabilities with accessibility features such as text-to-speech and alternative input techniques. Parents and caregivers can adapt training regimens to their child's specific needs, measure progress, and obtain tools for effective home training. The program protects data confidentiality and privacy while providing a comprehensive solution to enhance cognitive development in children with disabilities."
+          },
+          {
+            "statementHeading": "PS02(12) :  Al-based method for preliminary diagnosis of dermatological symptoms",
+            "problemStatement": "The AI-based Tool for Preliminary Diagnosis of Dermatological Manifestations (SIH1344) intends to create a software application that uses powerful AI and machine learning algorithms to evaluate skin photos and make preliminary diagnosis of dermatological diseases. The application has a simple interface that allows healthcare providers to quickly record and analyze images. It accurately detects common skin disorders like eczema, psoriasis, acne, and skin cancer, providing fast feedback and possible diagnoses. This software helps with early detection and treatment, improving the efficiency of dermatological care and assisting healthcare workers in making educated decisions."
+          },
+          {
+            "statementHeading": "PS01(13) : A software solution for monitoring, assessing, and tracking children's mental health and wellbeing",
+            "problemStatement": "Mental Health and Well-being Surveillance, Assessment, and Tracking Solution among Children is a software application designed to monitor, assess, and track the mental health and well-being of children. It features a user-friendly interface that allows for regular mental health assessments through questionnaires, interactive activities, and behavioral tracking. The software uses data analytics to identify patterns and potential issues, providing real-time feedback and actionable insights for parents, caregivers, and healthcare professionals. It aims to facilitate early intervention and continuous support, enhancing the overall mental well-being of children through comprehensive and personalized monitoring."
+          },
+          {
+            "statementHeading": "PS01(14) : Creating a Hardware/Software System for Patient Care in the Health Sector",
+            "problemStatement": "The 'System for Patient Care in the Health Sector' involves developing an integrated hardware and software solution to enhance patient care. The system includes a comprehensive patient monitoring platform that collects real-time health data through wearable devices and sensors, tracks vital signs, and alerts healthcare providers to any abnormalities. The software component provides an intuitive interface for healthcare professionals to access patient records, analyze data, and coordinate care. It also includes features for patient scheduling, telemedicine support, and secure communication between patients and providers. This solution aims to improve the efficiency and effectiveness of patient care, ensuring timely interventions and better health outcomes."
+          },
+          {
+            "statementHeading": "PS01(15) : X Ray analyzer using deep learning",
+            "problemStatement": "Develop a deep learning model to analyze X-ray images from various perspectives (top, side, lattice) to predict the following: a) The gender of the person (classification), b) The age of the person (regression), c)Possible regions of anomalies (segmentation/detection) and make a web application over it."
+          }
+         ]
+       },
+       {
+        "domain": "Smart Education",
+        "faqs": [
+          {
+            "statementHeading": "PS03(1) : Alumni tracking system",
+            "problemStatement": "To develop a robust, user-friendly, and scalable Alumni Tracking System. This system should collect, store, and manage data about alumni and their career paths, with a focus on real-time updates. The system and database will help to provide a clear career path for current candidates undergoing training, empowering them with the knowledge and guidance needed to shape their futures. Moreover, in times of disaster or crisis, this invaluable pool of data can serve as a vital resource."
+          },
+          {
+            "statementHeading": "PS03(2) : A smart application to analysis of the drop-out students in education",
+            "problemStatement": "Interest is in finding out the reasons for higher dropout rates amongst students and ways to reduce it. The application will collect the data or information from the students/institutions to analyze and provides needful information/report."
+          },
+          {
+            "statementHeading": "PS03(3) : To develop a Portal to know about various National and International scholarships",
+            "problemStatement": "Despite the growing number of scholarships available due to advancements in technology and market expansion, information about these opportunities is scattered across various sources. This dispersion makes it difficult for students to find suitable scholarships. Addressing this issue would centralize information about national and international scholarships, encouraging students to improve their qualifications to secure these opportunities for a better future. Develop a portal that consolidates information about national and international scholarships based on criteria such as merit, field of study, and income. This portal should feature real-time data management to ensure it is always updated with the latest scholarship offerings."
+          },
+          {
+            "statementHeading": "PS03(4) : Bulk email & SMS service",
+            "problemStatement": "Information sharing is a major factor for development in the country. It is a time taking process to share information to all the citizens of the country through media and newspaper. In this modern generation almost, everyone has a mobile phone in their hand. We can use this opportunity to share information directly to them through SMS or email. This will save time and money and information can be shared with a larger community within short time duration. Also, such service can be used to repeatedly send SMS in case of emergency situations. Summary: A bulk SMS or email service which can convey information to larger audience in short interval of time is a requirement. It can include alerts, warnings and news that are of high importance cam needs to be delivered to all the citizens of the country in a single go. Objective: We need a mobile/web app that will allow sending Bulk email & SMS (around 1 core) user in one go through SMTP or other technology and it will be compatible for that all the users should get anotification also in their mobile through Artificial Intelligence. In addition, features like log generation, notification of failure of SMS and/or email delivery, scheduling of SMS/emails, scheduler alert/notification system, users’ creation with different role and responsibilities, read & unread status, provision of importing contact details from excel worksheets, customizing emails with name of the receiver etc. should be included."
+          },
+          {
+            "statementHeading": "PS03(5) : Create games/open-source solutions to develop games which help in teaching/learning concepts",
+            "problemStatement": "Inspired by the science of learning, player learns concepts, clarify their understanding and also develops speed in applying the concepts in this gameplay. Game learns the player’s current level of understanding based on choices made and game complexity is varied to balance the engagement and difficulty level of the game. simple learning games be built using any interactive activity framework. Description: Concepts in the Games are expected to tagged to Nipun Bharat (Foundational Literacy and Numeracy) and NCERT Learning outcome registry (as applicable), DIKSHA telemetry specifications and need to be tagged to relevant NCERT textbooks using DIKSHA dial framework. Games can choose to use DIKSHA’s ECML content framework for interactive content and could leverage robotics, digital toys to add Interactivity, engagement and sophistication. Team can develop relevant plugins for NDEAR DIKSHA content development studio to enhance the interactive experience of game play and contribute to opensource community. More enhanced games could explore multiplayer environments, and leveraging AI/ML to induce engagement and challenge. By carrying out real time analysis, proficiency of users be made available on dashboard levering the NDEAR data framework and tools such as cube leveraging the learning outcome Tags and proficiency demonstrated by gamers.Gamers could provide either a PC app, or phone or web-ui based experience."
+          },
+          {
+            "statementHeading": "PS03(6) : Absence of a Unified Source for Academic Event Information",
+            "problemStatement": "Teachers and students are encouraged to engage in research and innovation, with current accreditation emphasizing research work and publications. To facilitate research and collaboration, it's crucial to participate in various academic events like workshops, seminars, and conferences. However, finding information about these events is time-consuming, and opportunities may be missed. A single portal providing details on academic activities nationwide and internationally would be beneficial. Summary: Students have to search for information about dates, places and themes of such academic confluences. Lot of time and efforts are wasted in this regard and despite that they may miss out vital information and chance to make presentations. Addressing this problem will be extremely useful for obtaining the information about all academic activities across the country, universities and international arena in chronological order and in subject areas so as to enable the students, faculty, and researchers to access information and prepare well in advance and participate effectively and successfully. Objective: We need you to develop a portal where information about all academic activities across the country, universities and international arena in chronological order and in subject areas so as to enable the students, faculty, and researchers to access information and prepare well in advance and participate effectively and successfully."
+          },
+          {
+            "statementHeading": "PS03(7) : Online Network for University and College Student Projects",
+            "problemStatement": "Innovation is the key to betterment of education and students in the Indian universities/colleges put a lot of efforts on the projects as a part of the academic requirements. If a common knowledge platform (with a facility for plagiarism) is created to bring all project works taken up at various levels by the students in Technical / Higher Educational Institutes and Universities throughout the country , then it will be a great source of knowledge and also will help the student community to take up unique/innovative project works Summary: An integrated platform should be developed where in all the universities/Colleges provide information about the projects done by the students. The information on this platform will help in the peer learning and this will also help in cross functional research between various universities/colleges. Objective: To develop an online integrated platform for projects taken up by the students of various universities/colleges."
+          },
+          {
+            "statementHeading": "PS03(8) : Development of an AI-Enhanced Educational Platform for Collaborative Learning and Time Management",
+            "problemStatement": "The current educational environment faces significant challenges in facilitating effective student collaboration and time management. Traditional tools often fall short in providing the necessary support for students to work together efficiently and manage their time effectively, which are crucial skills for academic success. This proposal outlines the development of a comprehensive online platform designed to address these challenges by integrating collaborative features and AI-powered assistance."
+          },
+          {
+            "statementHeading": "PS03(9) : Development of an AI-Powered Study Planner and Time Management Assistant",
+            "problemStatement": "The educational landscape is in dire need of advanced tools to support student collaboration and time management. A significant part of this challenge can be addressed by developing an AI-powered study planner and time management assistant. This tool aims to optimize student learning by organizing study schedules, setting priorities based on workload and deadlines, and managing time effectively through personalized recommendations."
+          },
+          {
+            "statementHeading": "PS03(10) : Enhancing the Quality of Education in Rural Areas through an Integrated Digital Platform",
+            "problemStatement": "To address educational challenges in rural areas, this proposal outlines an integrated digital platform to enhance education quality. The platform provides rural students with a digital curriculum, interactive lessons, and offline access. It supports teachers through professional development, teaching resources, and virtual mentorship. Student engagement is enhanced with adaptive learning, gamified elements, and collaborative projects. The platform involves parents and the community via portals and workshops, while also supplying necessary hardware and improved internet connectivity. Implementation includes a needs assessment, pilot program, platform development, training, and ongoing monitoring, aiming to improve educational quality, student engagement, teacher empowerment, and community support by leveraging technology and resources."
+          },
+          {
+            "statementHeading": "PS03(11) : An Online Personalized Learning Remediation and Tutor Search Platform",
+            "problemStatement": "Students often struggle to find personalized support for specific subjects or topics, as traditional classrooms and local tutor searches fall short. This leads to gaps in understanding and academic performance. Teachers, overwhelmed by large class sizes, cannot provide one-on-one assistance, and current methods for finding tutors are time-consuming and limited.There is a pressing need for an online platform that not only offers personalized learning remediation but also allows users to search for tutors based on specific topics. This platform should leverage adaptive learning technologies to provide customized educational experiences, helping students address individual weaknesses. Additionally, it should feature a centralized tutor search function with detailed profiles, including qualifications, experience, availability, and rates."
+          },
+          {
+            "statementHeading": "PS03(12) : Natural Language to SQL command converter",
+            "problemStatement": "You are tasked with creating a chat-based application or website that can seamlessly translate natural language queries into SQL commands and generate diagrammatic charts based on the query results. The application should be user-friendly, accurate, and efficient."
+          }
+        ]
+      },
+
+      {
+    "domain": "Greentech",
+    "faqs": [
+        {
+            "statementHeading": "PS04(1) : Tracking, reducing and reusing of plastic waste",
+            "problemStatement": "Applying the circular economy principles properly can dramatically reshape the economics of plastics in the global economy while helping the environment. Recycling plastics has a great potential because here is a material that can be recycled many times while retaining its value and functional properties. It means that we need to increase the collection of plastic waste and India's recycling capacity. Innovation is the key and it needs to stimulate more methods of increasing recycling and the recyclability of plastic-containing products that further improve product design. There is great potential for economic gain but for this to happen we need multiple players across businesses and research communities to come together, to reconceive key material flows and manufacturing processes. All this needs to be supported by the proper policies and by sufficient investment. There is a requirement of reshaping the economics of plastic which could help the environment and also the global economy. Plastic is the only material which can be recycled multiple number of times and still hold an economic value in the market. Also recycling plastic can reduce environmental stress thus reducing pollution. This methodology shows great potential in economic rise. We need a solution that highlights the bulk waste generators of the plastic waste and propose solutions and solution providers in the nearby areas. This would help to effectively and efficiently tackle the issue of plastic pollution on our land and sea and boost immediate action at national and local level in India and beyond."
+        },
+        {
+            "statementHeading": "PS04(2) : Development of business models for collection and utilization of single use plastics and various other industrial wastes",
+            "problemStatement": "Industrial waste is the waste produced by industrial activity which includes any material that is useless during a manufacturing process. It is hazardous to human health and environment. We are looking for a software solution which would help in development of business models for collection and utilization of single use plastics and various other industrial wastes by using items like: a. Ceramics b. Bamboo c. Wood d. Jute e. Cloth g. Tetra packs, etc. It should lead to utilizing the industrial waste at appropriate place, generate some revenue stream/business model and cause less harm to environment."
+        },
+        {
+            "statementHeading": "PS04(3) : Utilizing Food Waste as Organic Resources",
+            "problemStatement": "In Southeast Asia, food waste is discharged daily from factories, restaurants, supermarkets, etc. This waste has potential to be reused as an organic resource providing it can be transformed with the correct technology. Collection of the food waste from such areas and categorizing them to what they can be used into is a major task for this problem statement. It is found that there is discharge of food waste daily from various types of places i.e. restaurants, factories, supermarkets etc. Most of this food waste are either dumped or destroyed by some means. We want this food waste to be reused in such a manner that it can be helpful for the society. Food waste reusability can highly boost the economic sector of the country. We are looking for ideas to reuse food waste as a consumable organic resource or ideas in Digital management or Effective Use of Waste Material for the Food and Beverage Industry (e.g. Factory, Restaurant, Supermarket, Warehouse, Building and so on) and its supply chain. Some issues which could be tackled under this category include, but are not restricted to, the following: Biogas power generation, Compost, Transforming food waste into animal feed."
+        },
+        {
+            "statementHeading": "PS04(4) : Water well prediction powered by AI",
+            "problemStatement": "It is anticipated that the web-based system will assist regular customers in choosing a water well in a specific area. NAQUIM data from the CGWB, including lithology, geophysical logs, water levels, water quality, aquifer maps, etc., will power the system. The AI-based predictor ought to be able to deliver the following data at a user-selected point: i. Is the location appropriate for building a water well? ii. How deep are water-bearing zones predicted to be found? iii. What is the well's anticipated discharge? iv. What is the best drilling method for this location? v. What is the anticipated groundwater quality in this area? and other pertinent details? A graphical user interface that is easy to use is required. Provisions should also be there to obtain the user feedback in a structured manner."
+        },
+        {
+            "statementHeading": "PS04(5) : Waste Management Optimization",
+            "problemStatement": "Create a solution that optimizes waste management processes in urban areas by using data analytics and IoT sensors to monitor waste levels, optimize collection routes, and promote recycling and composting initiatives."
+        },
+        {
+            "statementHeading": "PS04(6) : Urban Green Spaces Mapper",
+            "problemStatement": "Develop a mapping tool that identifies and evaluates potential locations for creating new urban green spaces such as parks, community gardens, and green roofs, taking into account factors like land availability, environmental impact, and community needs."
+        },
+        {
+            "statementHeading": "PS04(7) : Food Waste Reduction Platform",
+            "problemStatement": "Create a platform that connects food businesses with surplus food to organizations and individuals in need, facilitating food donations and reducing food waste while addressing food insecurity issues in communities."
+        },
+        {
+            "statementHeading": "PS04(8) : Plastic Pollution Tracker",
+            "problemStatement": "Design a solution for tracking and mitigating plastic pollution in oceans and waterways, utilizing satellite imagery, machine learning algorithms, and citizen science initiatives to identify areas of high plastic concentration and implement targeted cleanup efforts."
+        },
+        {
+            "statementHeading": "PS04(9) : Water Conservation App",
+            "problemStatement": "Design an app that educates users about water conservation practices and helps them track their water usage at home, offering tips for reducing consumption, detecting leaks, and implementing water-saving technologies."
+        }
+    ]
+},
+{
+    "domain": "Smart Retail (AR/VR)",
+    "faqs": [
+        {
+            "statementHeading": "PS05(1) : Virtual Try-On Solutions",
+            "problemStatement": "Create an augmented reality (AR) application that allows customers to virtually try on clothes, accessories, and cosmetics. The solution should provide accurate visualizations and recommendations based on the customer's preferences, improving the online shopping experience and reducing return rates."
+        },
+        {
+            "statementHeading": "PS05(2) : Smart Inventory Management Software Solution",
+            "problemStatement": "The smart inventory management software solution aims to revolutionize inventory control by leveraging advanced technologies to monitor, optimize, and predict inventory levels effectively. It integrates real-time monitoring capabilities with sophisticated algorithms for demand forecasting and supply chain integration. Key features include dynamic inventory optimization, predictive analytics for future demand trends, seamless integration with suppliers, proactive alerts for stock levels, and comprehensive reporting functionalities. This solution is designed to minimize stockouts and overstock situations, enhance operational efficiency, and support strategic decision-making for businesses across various industries."
+        },
+        {
+            "statementHeading": "PS05(3) : Smart Pricing and Dynamic Pricing Strategy Software Tool",
+            "problemStatement": "The smart pricing and dynamic pricing strategy software tool is designed to revolutionize pricing strategies for retailers by leveraging advanced algorithms and real-time data analytics. It enables retailers to set optimal prices that are competitive yet profitable, adjusting dynamically based on demand fluctuations, competitor pricing, and market trends. Key functionalities include real-time market monitoring, predictive analytics for demand forecasting, competitor price tracking, and automated price adjustments. This tool aims to maximize profitability and revenue while maintaining competitive pricing in the market landscape."
+        }
+    ]
+},
+{
+    "domain": "Agriculture",
+    "faqs": [
+        {
+            "statementHeading": "PS06(1) : User-friendly Online Platform that Connects Farmers Directly with Consumers",
+            "problemStatement": "This platform should allow farmers to list their produce, set prices, and manage orders while offering consumers transparency on product origin and freshness. Features: (1) Easy product listing with clear descriptions, including photos and information about growing practices. (2) Set fair and competitive prices for their produce. (3) Manage orders efficiently, including order confirmation, communication with customers, and order fulfillment. (4) Payment processing system. (4) For the consumers, there will be convenient search and browse features to discover local farmers and their offerings. (5) Transparent information on product origin, farming practices, and freshness. (6) Ability to place orders directly with farmers and choose preferred delivery or pickup options. (7) Integrate with local delivery services or create a community-supported agriculture (CSA) model for distribution. (8) Consider incorporating educational content about local agriculture and the benefits of sustainable food systems."
+        },
+        {
+            "statementHeading": "PS06(2) : Mobile App or Web Tool to Empower Farmers with Data-driven Fertilizer Recommendations",
+            "problemStatement": "Develop a mobile app or web tool that helps farmers recommend fertilizer usage based on crop type, soil quality, and weather data. This tool should recommend the appropriate fertilizer type and dosage, promoting sustainable practices and reducing environmental impact. Features: (1) It will allow farmers to input data on crop type, planting date, and desired yield. (3) Integrate with soil testing services or allow manual soil data input (e.g., nutrient levels, pH). (3) Analyze collected data to create customized fertilizer recommendations, including type, dosage, and application timing. (4) Consider factors like soil health, crop needs, and weather conditions to optimize fertilizer use. (5) Provide educational content on the benefits of proper fertilizer use and the impact on soil health and environmental sustainability. (6) Allow farmers to track their fertilizer usage history and monitor its impact on crop yields. (7) Offer features for cost analysis to show the economic benefits of optimized fertilizer use."
+        },
+        {
+            "statementHeading": "PS06(3) : Automated Animal Identification and Detection of Species (AAIDeS)",
+            "problemStatement": "Marine fishery is very dynamic in nature. During active season landing of fish may be overwhelming for a manual monitoring. At the same time, taking que of the fish landing is important for researchers and administrators. Manual reporting is limited with sample size, often too small, that lead to high level of errors and prone to wrong extrapolation for meaningful fish stock assessment. This calls for automation to be only feasible method to overcome limitations of manual monitoring and reporting. The manual mode may rather be used to better train computer algorithms. A solution should focus on image recognition for species made available in the database. Over the time the database may get richer and thus, making the machine learning better. Such a system should envision cameras installed at the harbors and weigh-bridges, where species may be identified by AI and their proportion (in mixed catch) can be estimated, in order to report the captured biomass effectively and with minimal manual intervention. At present, the catch effort is often the weakest link in stock assessment model. Such harbor-based systems may reduce the errors significantly. Another use is to integrate the cloud-based algorithms to help report catch through app(s) where all a fisherman needs to do is to click the photo of the catch and enter the estimated catch weight."
+        },
+        {
+            "statementHeading": "PS06(4) : Develop a Simple but Effective Tele-consultation Application for Farmers to Facilitate Agriculture",
+            "problemStatement": "The area covered by agricultural / horticultural crops is too vast to enable personal attention to individual farmers. Visual inspection of plants is a very important tool to identify diseases / assess health of plant. Availability of tele-consultation in both offline as well as online mode would alleviate the various issues faced. One of the requirements for creation of a suitable solution would include integration of image processing along with creation of a national database. There is a need to set up tele-consultation facilities to benefit the farmers of the country."
+        },
+        {
+            "statementHeading": "PS06(5) : App-Based Solution to Identify & Solve Disease in Plants/Crops",
+            "problemStatement": "Farmers can upload the photographs of disease-affected plants/crops and solutions may be provided by experts/scientists linked to the app."
+        },
+        {
+            "statementHeading": "PS06(6) : Environmental Monitoring and the Index of Air and Water Quality",
+            "problemStatement": "Given the significance of both air and water to human existence, pollution of both types is a serious problem that calls for coordinated efforts to prevent and control. Anthropogenic activities of various kinds have caused environmental degradation and destruction. The Air Quality Index is one instrument that can be utilized for this kind of campaign (AQI). The AQI was calculated using the following pollutant concentrations: We also know the existence of the Water Quality Index (WQI), which provides a straightforward indication of the quality of drinking water from a source. For the purpose of developing the AQI and WQI, environmental monitoring of the air and water must be done continuously. This will allow for clear communication of how clean the environment is."
+        },
+        {
+            "statementHeading": "PS06(7) : AI-powered Pest and Disease Identification App",
+            "problemStatement": "Design a mobile app that utilizes image recognition to identify pests and diseases affecting specific crops. Farmers can upload pictures of their crops and receive immediate identification along with recommended treatment options. (This can leverage existing image recognition APIs)"
+        },
+        {
+            "statementHeading": "PS06(8) : Marketplace for Small-Scale Farmers",
+            "problemStatement": "Develop an online marketplace where small-scale farmers can sell their produce directly to consumers or local businesses, eliminating the need for intermediaries and increasing farmers' profitability."
+        },
+        {
+            "statementHeading": "PS06(9) : Food Traceability Platform",
+            "problemStatement": "Build a blockchain-based platform that allows consumers to trace the origin of agricultural products from farm to fork, providing transparency and accountability in the food supply chain while promoting food safety and quality assurance."
+        },
+        {
+            "statementHeading": "PS06(10) : Predictive Crop Yield and Market Price Analysis",
+            "problemStatement": "Develop a data-driven platform that analyzes historical data on weather patterns, market trends, and crop yields. The platform can predict future crop yields and suggest optimal planting times and crop selection based on market projections. (Focus on building a basic prediction model)"
+        }
+    ]
+},
+{
+    "domain": "Bioinformatics",
+    "faqs": [
+        {
+            "statementHeading": "PS07(1) : Cancer Biomarker Identification",
+            "problemStatement": "Develop a pipeline to identify and validate biomarkers for early cancer detection from high-throughput omics data (e.g., genomics, proteomics, metabolomics). The solution should include data integration, statistical analysis, and validation using public databases and clinical samples."
+        },
+        {
+            "statementHeading": "PS07(2) : Adaptive Immune System Modeling",
+            "problemStatement": "Develop a computational model of the adaptive immune system that simulates immune responses to infections and vaccines. The solution should use machine learning and bioinformatics techniques to predict immune responses, aiding in vaccine development and immunotherapy research."
+        },
+        {
+            "statementHeading": "PS07(3) : Portable DNA Sequencer for Personalized Medicine",
+            "problemStatement": "Develop a compact and easy-to-use device for quick and accessible DNA sequencing."
+        },
+        {
+            "statementHeading": "PS07(4) : AI-powered Protein Folding Simulator",
+            "problemStatement": "Build a hardware solution that uses AI to accelerate protein folding simulations for drug discovery."
+        },
+        {
+            "statementHeading": "PS07(5) : Low-cost Lab-on-a-chip for Disease Diagnosis",
+            "problemStatement": "Design a miniaturized device that performs complex biological analyses at the point of care."
+        },
+        {
+            "statementHeading": "PS07(6) : Genomic Data Analysis for Disease Prediction",
+            "problemStatement": "Develop a tool that can analyze genomic sequences to predict the likelihood of developing certain genetic diseases. The solution should include data preprocessing, feature selection, and predictive modeling using machine learning algorithms. Emphasis should be on creating an intuitive user interface for researchers and clinicians."
+        },
+        {
+            "statementHeading": "PS07(7) : Biocompatible Sensor for Real-time Health Monitoring",
+            "problemStatement": "Create a sensor that can be implanted to continuously monitor specific health markers in the body."
+        }
+    ]
+},
+{
+    "domain": "Social Services & Impact",
+    "faqs": [
+        {
+            "statementHeading": "PS08(1) : Disaster Management and Relief Coordination",
+            "problemStatement": "Develop a platform for efficient disaster management and relief coordination. The solution should provide real-time updates, resource allocation, volunteer coordination, and communication channels for affected communities. Aim to improve response times and ensure effective distribution of aid during disasters."
+        },
+        {
+            "statementHeading": "PS08(2) : Digital Education for Underprivileged Children",
+            "problemStatement": "Develop a platform or mobile application that provides free access to quality educational resources for underprivileged children in rural and urban slums. The solution should include interactive learning materials, live classes, and offline access to content. Focus on scalability, language diversity, and user engagement."
+        },
+        {
+            "statementHeading": "PS08(3) : Efficient Ambulance Services for Emergency Response",
+            "problemStatement": "Develop a system to optimize ambulance services and reduce response times in urban and rural areas. The solution should include features like real-time GPS tracking of ambulances, optimized route planning to avoid traffic congestion, and integration with local hospitals for real-time bed availability. Additionally, the system should provide a way for citizens to request an ambulance quickly and track its arrival."
+        },
+        {
+            "statementHeading": "PS08(4) : Flood Monitoring App",
+            "problemStatement": "This mobile application would leverage mapping technology to aid in disaster management, particularly during floods and other water-related emergencies. It could potentially show real-time flood zones, evacuation routes, and critical resources."
+        },
+        {
+            "statementHeading": "PS08(5) : Flood Prediction Software",
+            "problemStatement": "This software aims to analyze data and predict flood levels for rivers. It could be a valuable tool for flood preparedness and mitigation strategies, allowing authorities to take action before overflows occur."
+        },
+        {
+            "statementHeading": "PS08(6) : Explosion Hazard Detection Software",
+            "problemStatement": "This software is designed for the gas and oil industry to identify areas with a high risk of explosions. By analyzing various factors, it could help prevent accidents and improve overall safety standards."
+        },
+        {
+            "statementHeading": "PS08(7) : Smart Assistant Cane",
+            "problemStatement": "This project proposes developing hardware, like a modified blind cane, to enhance navigation for visually impaired individuals. Imagine a cane that uses sensors to detect obstacles and stairs, potentially even providing voice alerts to the user."
+        },
+        {
+            "statementHeading": "PS08(8) : Women's Safety Reporting System",
+            "problemStatement": "This software would create a community-based platform for reporting safety concerns within educational institutions like colleges, schools, and universities. It could empower students and staff to anonymously report incidents and highlight areas where improvements are needed."
+        },
+        {
+            "statementHeading": "PS08(9) : Lamp Post Theft Detection Using Machine Learning and Computer Vision",
+            "problemStatement": "Street lamp posts are essential for public safety, but they are vulnerable to theft and vandalism. Your task is to develop an intelligent system that detects anomalous activities around street lamp posts using CCTV footage. The system should trigger an alarm when it identifies potential theft or suspicious behavior."
+        }
+    ]
+},
+
+{
+    "domain": "Smart Automation (IoT)",
+    "faqs": [
+      {
+        "statementHeading": "PS09(1) : AI based Real-time alternative routes detection for the Ambulance while in traffic",
+        "problemStatement": "Congestion of roads is due to huge number of vehicles in use and also due to over population. This system intends to implement a model which detects the traffic congestion on the road and intimate this information to the ambulance driver well in advance through mobile app to take another route."
+      },
+      {
+        "statementHeading": "PS09(2) : Design and development of IOT based smart garage door opener",
+        "problemStatement": "Regular door opening and closing need manual physical power. It is ok when normal home doors. Particularly in garages door are heavy and big size. It should be digitized using AI application. The system should control the electronic doors and later may be extended to control from remote location."
+      },
+      {
+        "statementHeading": "PS09(3) : Automated Notes Maker from Audio Recordings",
+        "problemStatement": "In the present industry, communication is the key element to progress. Passing on information, to the right person, and in the right manner is very important, not just on a corporate level, but also on a personal level. The world is moving towards digitization, so are the means of communication. Phone calls, emails, text messages etc. have become an integral part of message conveyance in this tech-savvy world. In order to serve the purpose of effective communication between two parties without hindrances, many applications have come to picture, which acts as a mediator and help in effectively carrying messages in form of text, or speech signals over miles of networks. Most of these applications find the use of conversion from speech signals to text. Devise a way for the conversion of voice-based recording of online lessons to PDF/Word Documents. Compare the accuracy of what is spoken in the voice-based recording to the text in converted PDF/Word Document. The project aims to provide students with text-based PDF/Word Document of their online classes given they are voice based in nature. The accuracy must of the proposed solution must be taken into account."
+      },
+      {
+        "statementHeading": "PS09(4) : Develop a system which can read and analyze handwritten text and convert it into normal editable text.",
+        "problemStatement": "A mechanism is required that can analyze handwritten text and then convert it into the editable text either in the respective local language or English."
+      },
+      {
+        "statementHeading": "PS09(5) : Simplifying Attendance during Examination & Evaluation process through Online tracking process",
+        "problemStatement": "Build a web application to simplify Examination, Attendance and tracking Evaluation process Students commit errors while filling up the attendance detail may lead to greater difficulty in identifying the answer booklets at the time of Evaluation process. Technical staff / Support staff at examination center may also commit errors while typing answer booklet numbers. It becomes greater difficulty while decoding the Barcodes of the answer booklets. The Web application /Mobile application may be introduced to get the attendance detail (Present/Absent) and it can be linked with the student data for the purpose of attendance entry. The same data may also be shared to the Evaluation center for Coding and Decoding of the Answer booklets."
+      },{
+        "statementHeading": "PS09(6) : Land Revenue Survey Number Finder Based on Current Location",
+        "problemStatement": "Design a mobile application that can identify the revenue survey number or block number of the land where a person is located. By utilizing GPS technology, users should be able to discover both the survey number and sub-survey number for specific agricultural and non-agricultural land. When the user clicks on the current location's survey number, they should be able to access various details about the land, such as its type (Agri/Non Agri, JuniSharat/NaviSharat), a map of the land, and its area."
+      },{
+        "statementHeading": "PS09(7) : English-to-Hindi Website Translator",
+        "problemStatement": "This website proposes creating a physical device, possibly a dedicated tool or software, to translate content on websites from English to Hindi. This could be helpful for public and government organizations who want to ensure their websites are accessible to a wider audience."
+      },{
+        "statementHeading": "PS09(8) : Digital Platform for Coal Transport",
+        "problemStatement": "This idea focuses on developing a robust and scalable digital platform specifically for managing intermodal coal transportation. Intermodal transportation involves moving goods using multiple modes of transport, like railways, trucks, and ships. This platform could potentially streamline logistics and improve efficiency in the coal industry."
+      },{
+        "statementHeading": "PS09(9) : Railway Rake Management System",
+        "problemStatement": "This project aims to develop a system for optimizing the use of railway rakes. Rakes are groups of connected wagons used to transport goods by train. An efficient system could help manage the allocation and movement of rakes, potentially improving railway freight operations."
+      },{
+        "statementHeading": "PS09(10) : Data Collection System for Chemical Industries",
+        "problemStatement": "This idea proposes a system to collect and organize data from chemical and petrochemical industries across the country. This centralized data could provide valuable insights for decision-making and industry analysis."
+      },{
+        "statementHeading": "PS09(11) : AI-powered Feedback Tool for News Media",
+        "problemStatement": "This project focuses on developing software using Artificial Intelligence (AI), Machine Learning (ML), and Data Science to analyze news stories related to the Government of India in regional media. The software could potentially provide feedback on the accuracy and fairness of the reporting."
+      },{
+        "statementHeading": "PS09(12) : Offline Language Tool",
+        "problemStatement": "This idea is a bit more conceptual. It proposes developing a tool that functions even without an internet connection and offers basic functionalities. The tool would likely leverage a pre-loaded language model (LLM) to potentially translate languages or perform basic text analysis tasks even when offline."
+      }
+    ]
+  },
+  {
+    "domain": "AI–Based Robotics & Drones",
+    "faqs": [
+      {
+        "statementHeading": "PS10(1) : Search and Rescue Operations",
+        "problemStatement": "Design an autonomous drone system equipped with AI vision algorithms to locate and assist victims in disaster-stricken areas, optimizing search and rescue efforts and minimizing human intervention."
+      },
+      {
+        "statementHeading": "PS10(2) : Warehouse Inventory Management",
+        "problemStatement": "Develop AI algorithms to enable drones to autonomously navigate through warehouse environments, conduct inventory checks, and update inventory databases in real-time, improving accuracy and efficiency in supply chain management."
+      },
+      {
+        "statementHeading": "PS10(3) : Precision Agriculture Optimization",
+        "problemStatement": "Develop AI algorithms to analyze drone-collected data (such as crop health, soil moisture, etc.) and automate decision-making processes for precision agriculture tasks like irrigation scheduling, pest detection, and crop yield prediction."
+      },
+      {
+        "statementHeading": "PS10(4) : Wildlife Protection",
+        "problemStatement": "Develop an AI-driven drone network to monitor and protect endangered wildlife populations, detecting and deterring poaching activities in sensitive habitats, and assisting in wildlife conservation efforts"
+      },
+      {
+        "statementHeading": "PS10(5) : AI and Drone based delivery system",
+        "problemStatement": "AI and drone-based delivery systems combine advanced technology to revolutionize logistics. AI optimizes routes and makes real-time decisions, enabling drones to navigate complex environments efficiently. Equipped with cameras, sensors, and GPS, drones deliver accurately even in challenging areas. AI enhances security and performance by analyzing data and predicting maintenance needs, reducing costs and environmental impact. This innovative approach offers faster, greener, and more reliable delivery solutions, transforming the logistics industry."
+      }
+    ]
+  }
+
+
+]

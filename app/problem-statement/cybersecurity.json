@@ -1,0 +1,34 @@
+{
+   "domain": "Cybersecurity",
+    "faqs": [
+      {
+        "statementHeading": "PS01(1) : Design an app to develop Network Traffic Analyzer",
+        "problemStatement": "Packet Sniffing,or network traffic analysis and monitoring, involves overseeing all network traffic, activity, and availability. This practice is crucial for detecting anomalies, identifying operational issues, and comparing real-time network data with historical data to identify potential threats and issues. Design a project that will analyze the data packets sent across the network, compile a report based on your findings, and propose countermeasures if anomalies are found."
+      },
+      {
+        "statementHeading": "PS01(2) : Design an app to develop Dark Web Crawler",
+        "problemStatement": "Design and develop an AI-enabled technological solution for actionable Crime Intelligence from the Deep and Dark Web including but not limited to child pornography, weapons, drugs etc. The solution should have the capability to raise demands for additional information from clear-net and proprietary databases viz. TSPs/ISPs for attempting correlation and attribution."
+      },
+      {
+        "statementHeading": "PS01(3) : Design an app to develop women safety app",
+        "problemStatement": "Design and develop a Women safety app that automatically senses the danger to a mobile user and triggers an SOS alert with location details based on multimodal data from a mobile device such as audio, video, image, motion detection etc., given a situation that the user is not able to operate the mobile."
+      },
+      {
+        "statementHeading": "PS01(4) : Citizen safety app for protection against cyber crimes",
+        "problemStatement": "Developing an App to flag malicious/ fraud indicators in real-time. a) Mobile Number b) SMS Headers c) URL Links. d) UPI addresses e) Bit coin Wallet Address etc. f) SMS Templates"
+      },
+      {
+        "statementHeading": "PS01(5) : An online tracking mechanism for identification of websites/apps infringing copyrights of the content producers such as broadcasters, OTT platforms, etc.",
+        "problemStatement": "An online media tracking mechanism that may read information on webpages, and identify possible instances of piracy on digital media may be developed. Such a system may be developed and operated in collaboration with the Indian Media & Entertainment industry. At the input, content producers may feed various details and metadata related to a particular piece of copyright content. This information may be compared with the information tracked through the online mechanism to identify and flag potential cases of copyright violation. With final confirmation from the broadcasters, further tracking of a concerned website may be undertaken to identify it as an infringing website. Over a period of time, a dynamic Infringing Website List (IWL) may be developed and maintained. The system may send notifications to online advertising intermediaries (such as Google, Facebook, Amazon, etc.) for blacklisting of such websites (and their IP addresses) from receiving any future ads, thereby discouraging online piracy in India."
+      },{
+        "statementHeading": "PS01(6) : Malicious mobile application analysis and identification",
+        "problemStatement": " It's typical practice in today's environment to use different mobile applications for different purposes. As a result, smartphone users wind up with an excessive number of programs over time. Users hardly ever remove programs they aren't using. It is incredibly easy for any malicious application to remain undetected. Therefore, it is necessary to create a mobile app tool that can identify several signs of penetration in cellphones using threat feeds and open-source information. The program can verify network traffic to suspect IP addresses, suspicious URLs, suspicious inbound connections, and suspicious packets from suspicious apps."
+      },{
+        "statementHeading": "PS01(7) : Create and implement a customized online meeting platform for AICTE",
+        "problemStatement": "To develop a personalized online meeting system for AICTE, a robust architecture is required, incorporating server infrastructure (application, web, database, media, and storage servers) and a comprehensive database (user management, meeting data, media storage). APIs for authentication, meeting management, real-time communication, and file sharing are essential, alongside user-friendly web and mobile interfaces. The backend infrastructure will handle user management, meeting scheduling, real-time communication via Web Sockets, and secure file sharing. Video conferencing capabilities will be integrated using WebRTC for real-time video and audio communication. Security measures will include encryption of data in transit and at rest, user authentication, access controls, and secure storage of meeting recordings, ensuring compliance with privacy regulations."
+      },{
+        "statementHeading": "PS01(8) : Blockchain-based Identity Management",
+        "problemStatement": "Design a decentralized identity management system using blockchain technology to securely verify and authenticate users' identities, reducing the risk of identity theft and fraud in online transactions."
+      }
+    ]
+  }

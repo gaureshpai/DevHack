@@ -1,0 +1,139 @@
+#processflow
+{
+    text-align: center;
+}
+.timeline {
+    display:flex;
+    justify-content: center;
+    margin: 20px auto;
+    padding: 20px;
+}
+.timeline #img1,#img2,#img3,#img4{
+    height:160px;
+    margin: auto;
+}
+.timeline #img4{
+    height:140px;
+    margin: auto;
+}
+.timeline #img5{
+    height:100px;
+    margin: auto;
+}
+.timeline #img6{
+    height:140px;
+    margin: auto;
+}
+.timeline #img7{
+    height:140px;
+    margin: auto;
+}
+.timeline #img8{
+    height:120px;
+    margin: auto;
+}
+.timeline #img9{
+    height:120px;
+    margin: auto;
+}
+
+.cardm {
+    position: relative;
+    max-width: 400px;
+}
+
+.cardm:nth-child(odd) {
+    padding: 30px 0 30px 30px;
+}
+
+.cardm:nth-child(even) {
+    padding: 30px 30px 30px 0;
+}
+
+.cardm::before {
+    content: "";
+    position: absolute;
+    width: 50%;
+    border: solid #1DE1FF;
+}
+
+.cardm:nth-child(odd)::before {
+    left: 0px;
+    top: -9.5px;
+    bottom: -9.5px;
+    border-width: 10px 0 10px 10px;
+    border-radius: 50px 0 0 50px;
+}
+
+@media only screen and (max-width: 400px) {
+    .cardm:nth-child(odd)::before {
+        top: -10px;
+        bottom: -10px;
+    }
+}
+
+.cardm:nth-child(even)::before {
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-width: 10px 10px 10px 0;
+    border-radius: 0 50px 50px 0;
+}
+
+.cardm:first-child::before {
+    border-top: 0;
+    border-top-left-radius: 0;
+}
+
+.cardm:last-child:nth-child(odd)::before {
+    border-bottom: 0;
+    border-bottom-left-radius: 0;
+}
+
+
+.cardm:last-child:nth-child(even)::before {
+    border-bottom: 0;
+    border-bottom-right-radius: 0;
+}
+
+
+.info {
+    display: flex;
+    flex-direction: column;
+    background-color: #2F68FF;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: #1DE1FF 0px 0px 16px 0px;
+    border-radius: 35px;
+    height:275px;
+}
+.cardm p{
+    margin-top:-30px;
+}
+
+.title {
+    color: orangered;
+    position: relative;
+}
+
+.title::before {
+    content: "";
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    background: #1DE1FF;
+    border-radius: 999px;
+    border: 10px solid #2F68FF;
+}
+
+
+
+.cardm:nth-child(odd)>.info>.title::before {
+    left: -55px;
+}
+
+
+.cardm:nth-child(even)>.info>.title::before {
+    right: -50px;
+}

@@ -1,0 +1,17 @@
+{
+    "domain": "Smart Retail (AR/VR)",
+    "faqs": [
+        {
+            "statementHeading": "PS05(1) : Virtual Try-On Solutions",
+            "problemStatement": "Create an augmented reality (AR) application that allows customers to virtually try on clothes, accessories, and cosmetics. The solution should provide accurate visualizations and recommendations based on the customer's preferences, improving the online shopping experience and reducing return rates."
+        },
+        {
+            "statementHeading": "PS05(2) : Smart Inventory Management Software Solution",
+            "problemStatement": "The smart inventory management software solution aims to revolutionize inventory control by leveraging advanced technologies to monitor, optimize, and predict inventory levels effectively. It integrates real-time monitoring capabilities with sophisticated algorithms for demand forecasting and supply chain integration. Key features include dynamic inventory optimization, predictive analytics for future demand trends, seamless integration with suppliers, proactive alerts for stock levels, and comprehensive reporting functionalities. This solution is designed to minimize stockouts and overstock situations, enhance operational efficiency, and support strategic decision-making for businesses across various industries."
+        },
+        {
+            "statementHeading": "PS05(3) : Smart Pricing and Dynamic Pricing Strategy Software Tool",
+            "problemStatement": "The smart pricing and dynamic pricing strategy software tool is designed to revolutionize pricing strategies for retailers by leveraging advanced algorithms and real-time data analytics. It enables retailers to set optimal prices that are competitive yet profitable, adjusting dynamically based on demand fluctuations, competitor pricing, and market trends. Key functionalities include real-time market monitoring, predictive analytics for demand forecasting, competitor price tracking, and automated price adjustments. This tool aims to maximize profitability and revenue while maintaining competitive pricing in the market landscape."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "domain": "Social Services & Impact",
+    "faqs": [
+        {
+            "statementHeading": "PS08(1) : Disaster Management and Relief Coordination",
+            "problemStatement": "Develop a platform for efficient disaster management and relief coordination. The solution should provide real-time updates, resource allocation, volunteer coordination, and communication channels for affected communities. Aim to improve response times and ensure effective distribution of aid during disasters."
+        },
+        {
+            "statementHeading": "PS08(2) : Digital Education for Underprivileged Children",
+            "problemStatement": "Develop a platform or mobile application that provides free access to quality educational resources for underprivileged children in rural and urban slums. The solution should include interactive learning materials, live classes, and offline access to content. Focus on scalability, language diversity, and user engagement."
+        },
+        {
+            "statementHeading": "PS08(3) : Efficient Ambulance Services for Emergency Response",
+            "problemStatement": "Develop a system to optimize ambulance services and reduce response times in urban and rural areas. The solution should include features like real-time GPS tracking of ambulances, optimized route planning to avoid traffic congestion, and integration with local hospitals for real-time bed availability. Additionally, the system should provide a way for citizens to request an ambulance quickly and track its arrival."
+        },
+        {
+            "statementHeading": "PS08(4) : Flood Monitoring App",
+            "problemStatement": "This mobile application would leverage mapping technology to aid in disaster management, particularly during floods and other water-related emergencies. It could potentially show real-time flood zones, evacuation routes, and critical resources."
+        },
+        {
+            "statementHeading": "PS08(5) : Flood Prediction Software",
+            "problemStatement": "This software aims to analyze data and predict flood levels for rivers. It could be a valuable tool for flood preparedness and mitigation strategies, allowing authorities to take action before overflows occur."
+        },
+        {
+            "statementHeading": "PS08(6) : Explosion Hazard Detection Software",
+            "problemStatement": "This software is designed for the gas and oil industry to identify areas with a high risk of explosions. By analyzing various factors, it could help prevent accidents and improve overall safety standards."
+        },
+        {
+            "statementHeading": "PS08(7) : Smart Assistant Cane",
+            "problemStatement": "This project proposes developing hardware, like a modified blind cane, to enhance navigation for visually impaired individuals. Imagine a cane that uses sensors to detect obstacles and stairs, potentially even providing voice alerts to the user."
+        },
+        {
+            "statementHeading": "PS08(8) : Women's Safety Reporting System",
+            "problemStatement": "This software would create a community-based platform for reporting safety concerns within educational institutions like colleges, schools, and universities. It could empower students and staff to anonymously report incidents and highlight areas where improvements are needed."
+        },
+        {
+            "statementHeading": "PS08(9) : Lamp Post Theft Detection Using Machine Learning and Computer Vision",
+            "problemStatement": "Street lamp posts are essential for public safety, but they are vulnerable to theft and vandalism. Your task is to develop an intelligent system that detects anomalous activities around street lamp posts using CCTV footage. The system should trigger an alarm when it identifies potential theft or suspicious behavior."
+        }
+    ]
+}

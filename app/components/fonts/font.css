@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'logirent';
+    src: url('./logirent-logirent-bold-700.ttf');
+  }
+
+  @font-face {
+    font-family: 'Varela';
+    src: url('./VarelaRound-Regular.ttf');
+  }
+  @font-face {
+    font-family: 'roboto';
+    src: url('./RobotoMono-Regular.ttf');
+  }
+  @font-face {
+    font-family: 'popBold';
+    src: url('./Poppins-Bold.ttf');
+  }
+  @font-face {
+    font-family: 'blanka';
+    src: url('./Poppins-Black.ttf');
+  }

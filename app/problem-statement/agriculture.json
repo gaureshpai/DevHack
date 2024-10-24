@@ -1,0 +1,45 @@
+{
+    "domain": "Agriculture",
+    "faqs": [
+        {
+            "statementHeading": "PS06(1) : User-friendly Online Platform that Connects Farmers Directly with Consumers",
+            "problemStatement": "This platform should allow farmers to list their produce, set prices, and manage orders while offering consumers transparency on product origin and freshness. Features: (1) Easy product listing with clear descriptions, including photos and information about growing practices. (2) Set fair and competitive prices for their produce. (3) Manage orders efficiently, including order confirmation, communication with customers, and order fulfillment. (4) Payment processing system. (4) For the consumers, there will be convenient search and browse features to discover local farmers and their offerings. (5) Transparent information on product origin, farming practices, and freshness. (6) Ability to place orders directly with farmers and choose preferred delivery or pickup options. (7) Integrate with local delivery services or create a community-supported agriculture (CSA) model for distribution. (8) Consider incorporating educational content about local agriculture and the benefits of sustainable food systems."
+        },
+        {
+            "statementHeading": "PS06(2) : Mobile App or Web Tool to Empower Farmers with Data-driven Fertilizer Recommendations",
+            "problemStatement": "Develop a mobile app or web tool that helps farmers recommend fertilizer usage based on crop type, soil quality, and weather data. This tool should recommend the appropriate fertilizer type and dosage, promoting sustainable practices and reducing environmental impact. Features: (1) It will allow farmers to input data on crop type, planting date, and desired yield. (3) Integrate with soil testing services or allow manual soil data input (e.g., nutrient levels, pH). (3) Analyze collected data to create customized fertilizer recommendations, including type, dosage, and application timing. (4) Consider factors like soil health, crop needs, and weather conditions to optimize fertilizer use. (5) Provide educational content on the benefits of proper fertilizer use and the impact on soil health and environmental sustainability. (6) Allow farmers to track their fertilizer usage history and monitor its impact on crop yields. (7) Offer features for cost analysis to show the economic benefits of optimized fertilizer use."
+        },
+        {
+            "statementHeading": "PS06(3) : Automated Animal Identification and Detection of Species (AAIDeS)",
+            "problemStatement": "Marine fishery is very dynamic in nature. During active season landing of fish may be overwhelming for a manual monitoring. At the same time, taking que of the fish landing is important for researchers and administrators. Manual reporting is limited with sample size, often too small, that lead to high level of errors and prone to wrong extrapolation for meaningful fish stock assessment. This calls for automation to be only feasible method to overcome limitations of manual monitoring and reporting. The manual mode may rather be used to better train computer algorithms. A solution should focus on image recognition for species made available in the database. Over the time the database may get richer and thus, making the machine learning better. Such a system should envision cameras installed at the harbors and weigh-bridges, where species may be identified by AI and their proportion (in mixed catch) can be estimated, in order to report the captured biomass effectively and with minimal manual intervention. At present, the catch effort is often the weakest link in stock assessment model. Such harbor-based systems may reduce the errors significantly. Another use is to integrate the cloud-based algorithms to help report catch through app(s) where all a fisherman needs to do is to click the photo of the catch and enter the estimated catch weight."
+        },
+        {
+            "statementHeading": "PS06(4) : Develop a Simple but Effective Tele-consultation Application for Farmers to Facilitate Agriculture",
+            "problemStatement": "The area covered by agricultural / horticultural crops is too vast to enable personal attention to individual farmers. Visual inspection of plants is a very important tool to identify diseases / assess health of plant. Availability of tele-consultation in both offline as well as online mode would alleviate the various issues faced. One of the requirements for creation of a suitable solution would include integration of image processing along with creation of a national database. There is a need to set up tele-consultation facilities to benefit the farmers of the country."
+        },
+        {
+            "statementHeading": "PS06(5) : App-Based Solution to Identify & Solve Disease in Plants/Crops",
+            "problemStatement": "Farmers can upload the photographs of disease-affected plants/crops and solutions may be provided by experts/scientists linked to the app."
+        },
+        {
+            "statementHeading": "PS06(6) : Environmental Monitoring and the Index of Air and Water Quality",
+            "problemStatement": "Given the significance of both air and water to human existence, pollution of both types is a serious problem that calls for coordinated efforts to prevent and control. Anthropogenic activities of various kinds have caused environmental degradation and destruction. The Air Quality Index is one instrument that can be utilized for this kind of campaign (AQI). The AQI was calculated using the following pollutant concentrations: We also know the existence of the Water Quality Index (WQI), which provides a straightforward indication of the quality of drinking water from a source. For the purpose of developing the AQI and WQI, environmental monitoring of the air and water must be done continuously. This will allow for clear communication of how clean the environment is."
+        },
+        {
+            "statementHeading": "PS06(7) : AI-powered Pest and Disease Identification App",
+            "problemStatement": "Design a mobile app that utilizes image recognition to identify pests and diseases affecting specific crops. Farmers can upload pictures of their crops and receive immediate identification along with recommended treatment options. (This can leverage existing image recognition APIs)"
+        },
+        {
+            "statementHeading": "PS06(8) : Marketplace for Small-Scale Farmers",
+            "problemStatement": "Develop an online marketplace where small-scale farmers can sell their produce directly to consumers or local businesses, eliminating the need for intermediaries and increasing farmers' profitability."
+        },
+        {
+            "statementHeading": "PS06(9) : Food Traceability Platform",
+            "problemStatement": "Build a blockchain-based platform that allows consumers to trace the origin of agricultural products from farm to fork, providing transparency and accountability in the food supply chain while promoting food safety and quality assurance."
+        },
+        {
+            "statementHeading": "PS06(10) : Predictive Crop Yield and Market Price Analysis",
+            "problemStatement": "Develop a data-driven platform that analyzes historical data on weather patterns, market trends, and crop yields. The platform can predict future crop yields and suggest optimal planting times and crop selection based on market projections. (Focus on building a basic prediction model)"
+        }
+    ]
+}

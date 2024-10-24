@@ -1,0 +1,25 @@
+{
+    "domain": "AI–Based Robotics & Drones",
+    "faqs": [
+      {
+        "statementHeading": "PS10(1) : Search and Rescue Operations",
+        "problemStatement": "Design an autonomous drone system equipped with AI vision algorithms to locate and assist victims in disaster-stricken areas, optimizing search and rescue efforts and minimizing human intervention."
+      },
+      {
+        "statementHeading": "PS10(2) : Warehouse Inventory Management",
+        "problemStatement": "Develop AI algorithms to enable drones to autonomously navigate through warehouse environments, conduct inventory checks, and update inventory databases in real-time, improving accuracy and efficiency in supply chain management."
+      },
+      {
+        "statementHeading": "PS10(3) : Precision Agriculture Optimization",
+        "problemStatement": "Develop AI algorithms to analyze drone-collected data (such as crop health, soil moisture, etc.) and automate decision-making processes for precision agriculture tasks like irrigation scheduling, pest detection, and crop yield prediction."
+      },
+      {
+        "statementHeading": "PS10(4) : Wildlife Protection",
+        "problemStatement": "Develop an AI-driven drone network to monitor and protect endangered wildlife populations, detecting and deterring poaching activities in sensitive habitats, and assisting in wildlife conservation efforts"
+      },
+      {
+        "statementHeading": "PS10(5) : AI and Drone based delivery system",
+        "problemStatement": "AI and drone-based delivery systems combine advanced technology to revolutionize logistics. AI optimizes routes and makes real-time decisions, enabling drones to navigate complex environments efficiently. Equipped with cameras, sensors, and GPS, drones deliver accurately even in challenging areas. AI enhances security and performance by analyzing data and predicting maintenance needs, reducing costs and environmental impact. This innovative approach offers faster, greener, and more reliable delivery solutions, transforming the logistics industry."
+      }
+    ]
+  }

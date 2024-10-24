@@ -1,0 +1,41 @@
+{
+    "domain": "Greentech",
+    "faqs": [
+        {
+            "statementHeading": "PS04(1) : Tracking, reducing and reusing of plastic waste",
+            "problemStatement": "Applying the circular economy principles properly can dramatically reshape the economics of plastics in the global economy while helping the environment. Recycling plastics has a great potential because here is a material that can be recycled many times while retaining its value and functional properties. It means that we need to increase the collection of plastic waste and India's recycling capacity. Innovation is the key and it needs to stimulate more methods of increasing recycling and the recyclability of plastic-containing products that further improve product design. There is great potential for economic gain but for this to happen we need multiple players across businesses and research communities to come together, to reconceive key material flows and manufacturing processes. All this needs to be supported by the proper policies and by sufficient investment. There is a requirement of reshaping the economics of plastic which could help the environment and also the global economy. Plastic is the only material which can be recycled multiple number of times and still hold an economic value in the market. Also recycling plastic can reduce environmental stress thus reducing pollution. This methodology shows great potential in economic rise. We need a solution that highlights the bulk waste generators of the plastic waste and propose solutions and solution providers in the nearby areas. This would help to effectively and efficiently tackle the issue of plastic pollution on our land and sea and boost immediate action at national and local level in India and beyond."
+        },
+        {
+            "statementHeading": "PS04(2) : Development of business models for collection and utilization of single use plastics and various other industrial wastes",
+            "problemStatement": "Industrial waste is the waste produced by industrial activity which includes any material that is useless during a manufacturing process. It is hazardous to human health and environment. We are looking for a software solution which would help in development of business models for collection and utilization of single use plastics and various other industrial wastes by using items like: a. Ceramics b. Bamboo c. Wood d. Jute e. Cloth g. Tetra packs, etc. It should lead to utilizing the industrial waste at appropriate place, generate some revenue stream/business model and cause less harm to environment."
+        },
+        {
+            "statementHeading": "PS04(3) : Utilizing Food Waste as Organic Resources",
+            "problemStatement": "In Southeast Asia, food waste is discharged daily from factories, restaurants, supermarkets, etc. This waste has potential to be reused as an organic resource providing it can be transformed with the correct technology. Collection of the food waste from such areas and categorizing them to what they can be used into is a major task for this problem statement. It is found that there is discharge of food waste daily from various types of places i.e. restaurants, factories, supermarkets etc. Most of this food waste are either dumped or destroyed by some means. We want this food waste to be reused in such a manner that it can be helpful for the society. Food waste reusability can highly boost the economic sector of the country. We are looking for ideas to reuse food waste as a consumable organic resource or ideas in Digital management or Effective Use of Waste Material for the Food and Beverage Industry (e.g. Factory, Restaurant, Supermarket, Warehouse, Building and so on) and its supply chain. Some issues which could be tackled under this category include, but are not restricted to, the following: Biogas power generation, Compost, Transforming food waste into animal feed."
+        },
+        {
+            "statementHeading": "PS04(4) : Water well prediction powered by AI",
+            "problemStatement": "It is anticipated that the web-based system will assist regular customers in choosing a water well in a specific area. NAQUIM data from the CGWB, including lithology, geophysical logs, water levels, water quality, aquifer maps, etc., will power the system. The AI-based predictor ought to be able to deliver the following data at a user-selected point: i. Is the location appropriate for building a water well? ii. How deep are water-bearing zones predicted to be found? iii. What is the well's anticipated discharge? iv. What is the best drilling method for this location? v. What is the anticipated groundwater quality in this area? and other pertinent details? A graphical user interface that is easy to use is required. Provisions should also be there to obtain the user feedback in a structured manner."
+        },
+        {
+            "statementHeading": "PS04(5) : Waste Management Optimization",
+            "problemStatement": "Create a solution that optimizes waste management processes in urban areas by using data analytics and IoT sensors to monitor waste levels, optimize collection routes, and promote recycling and composting initiatives."
+        },
+        {
+            "statementHeading": "PS04(6) : Urban Green Spaces Mapper",
+            "problemStatement": "Develop a mapping tool that identifies and evaluates potential locations for creating new urban green spaces such as parks, community gardens, and green roofs, taking into account factors like land availability, environmental impact, and community needs."
+        },
+        {
+            "statementHeading": "PS04(7) : Food Waste Reduction Platform",
+            "problemStatement": "Create a platform that connects food businesses with surplus food to organizations and individuals in need, facilitating food donations and reducing food waste while addressing food insecurity issues in communities."
+        },
+        {
+            "statementHeading": "PS04(8) : Plastic Pollution Tracker",
+            "problemStatement": "Design a solution for tracking and mitigating plastic pollution in oceans and waterways, utilizing satellite imagery, machine learning algorithms, and citizen science initiatives to identify areas of high plastic concentration and implement targeted cleanup efforts."
+        },
+        {
+            "statementHeading": "PS04(9) : Water Conservation App",
+            "problemStatement": "Design an app that educates users about water conservation practices and helps them track their water usage at home, offering tips for reducing consumption, detecting leaks, and implementing water-saving technologies."
+        }
+    ]
+}
