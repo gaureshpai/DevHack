@@ -1,6 +1,6 @@
 # AJIET Hackathon Official Website
 
-This is the draft 1 of official Hackathon website for AJIET (AJ Institute of Engineering and Technology), designed to showcase innovative projects, provide event details, and offer resources for participants to ensure a successful competition experience.
+This is the draft 1 of the official Hackathon website for AJIET (AJ Institute of Engineering and Technology), designed to showcase innovative projects, provide event details, and offer resources for participants to ensure a successful competition experience.
 
 ## Features
 
