@@ -38,7 +38,7 @@ const ContactUs = () => {
               style={{
                 color: '#074081',
               }}
-            />
+            /> A J Institute of Engineering and Technology, <br />
             NH-66, Kottara Chowki, Mangaluru, Karnataka 575006
           </p>
           <div className="divider divider-warning"></div>
@@ -50,9 +50,9 @@ const ContactUs = () => {
               }}
             />
             <div className="">
-              <p className="py-4 text-sm lg:text-xl">Dharshan Bhandary : (+91) 00000 00000</p>
+              <p className="py-4 text-sm lg:text-xl">Darshan Bhandary : (+91) 90190 03490</p>
               <p className="py-4 -mt-6 text-sm lg:text-xl">
-                Jnanesh : (+91) 00000 00000
+                Jnanesh : (+91) 90190 03490
               </p>
             </div>
           </div>
@@ -65,7 +65,7 @@ const ContactUs = () => {
                 color: '#074081',
               }}
             />
-            <p className="py-1 md:py-4 flex flex-row text-sm md:text-xl">contact@devhack.com</p>
+            <p className="py-1 md:py-4 flex flex-row text-sm md:text-xl">enigma@gmail.com</p>
           </div>
           <div className="divider divider-warning"></div>
           <div className="flex flex-column">

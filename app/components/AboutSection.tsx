@@ -165,7 +165,7 @@ function AboutSection() {
                   pt: { xs: 5 },
                 }}
               >
-                DEVHACK Registration Starts :&nbsp;
+                Registration Starts :&nbsp;
                 <Typography
                   component="span"
                   variant="h1"
@@ -175,7 +175,7 @@ function AboutSection() {
                     color: "white",
                   }}
                 >
-                  1st November, 2024
+                  4th November, 2024
                 </Typography>
               </Typography>
               <Typography
@@ -197,7 +197,7 @@ function AboutSection() {
                     color: "white",
                   }}
                 >
-                  15th November, 2024
+                  18th November, 2024
                 </Typography>
               </Typography>
               <Typography
@@ -209,7 +209,7 @@ function AboutSection() {
                   color: "#1DD8FE",
                 }}
               >
-                DEVHACK :&nbsp;
+                DevHack :&nbsp;
                 <Typography
                   component="span"
                   variant="h1"
@@ -219,7 +219,7 @@ function AboutSection() {
                     color: "white",
                   }}
                 >
-                  1st December, 2024
+                  29th - 30th November, 2024
                 </Typography>
               </Typography>
             </Stack>
@@ -327,7 +327,7 @@ function AboutSection() {
                 pt: { xs: 5 },
               }}
             >
-              DEVHACK Registration Starts :&nbsp;
+              Registration Starts :&nbsp;
               <Typography
                 component="span"
                 variant="h1"
@@ -337,7 +337,7 @@ function AboutSection() {
                   color: "white",
                 }}
               >
-                25th June, 2024
+                4th November, 2024
               </Typography>
             </Typography>
             <Typography
@@ -349,7 +349,7 @@ function AboutSection() {
                 color: "#1DD8FE",
               }}
             >
-              Registration Closed :&nbsp;
+              Registration Closes :&nbsp;
               <Typography
                 component="span"
                 variant="h1"
@@ -357,9 +357,10 @@ function AboutSection() {
                   fontSize: { sm: "22px", xs: "16px" },
                   fontFamily: "Varela",
                   color: "white",
+                  marginBottom: '10px',
                 }}
               >
-                15th August, 2024
+                18th November, 2024
               </Typography>
             </Typography>
             <Typography
@@ -371,7 +372,7 @@ function AboutSection() {
                 color: "#1DD8FE",
               }}
             >
-              DEVHACK :&nbsp;
+              DevHack :&nbsp;
               <Typography
                 component="span"
                 variant="h1"
@@ -381,7 +382,7 @@ function AboutSection() {
                   color: "white",
                 }}
               >
-                12th September, 2024
+                29th November, 2024
               </Typography>
             </Typography>
           </Stack>

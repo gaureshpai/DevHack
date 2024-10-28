@@ -6,9 +6,9 @@ import Image from 'next/image';
 
 const FooterSection = () => {
   const socialLinks = [
-    { icon: <Facebook />, url: '', name: 'Facebook' },
-    { icon: <Instagram />, url: '', name: 'Instagram' },
-    { icon: <LinkedIn />, url: '', name: 'LinkedIn' },
+    // { icon: <Facebook />, url: '', name: 'Facebook' },
+    { icon: <Instagram />, url: 'https://www.instagram.com/enigma._aj/', name: 'Instagram' },
+    { icon: <LinkedIn />, url: 'https://www.linkedin.com/in/enigma-cse-association-a1615b335/', name: 'LinkedIn' },
     { icon: <Twitter />, url: '', name: 'Twitter' },
     { icon: <GitHub />, url: 'https://github.com/Ajiet-DevNation/', name: 'Github' },
   ];
@@ -48,7 +48,7 @@ const FooterSection = () => {
               }}
             >
               <Image
-                src="/logo.png"
+                src="/images/Dev.png"
                 alt="DEVHACK Logo"
                 width={200}
                 height={60}
@@ -94,7 +94,7 @@ const FooterSection = () => {
               </Typography>
               <Typography variant="body2" sx={{ mb: 1 }}>
                 <Link href='mailto:info@devhack.com' className='cursor-pointer' target='_blank'>
-                  Email: drshnbhandary@gmail.com
+                  Email: enigma@ajiet.edu.in
                 </Link>
               </Typography>
               <Typography variant="body2" sx={{ mb: 3 }}>

@@ -43,10 +43,21 @@ export default function Hero() {
             sx={{ width: { xs: "80%", sm: "40%" }, mt: { xs: 10, sm: 8 } }}
           >
             <Stack spacing={2}>
+            <img
+                  className="flex"
+                  src="/images/enigma.png"
+                  alt="logo of DevHack"
+                  style={{
+                    width: "110px",
+                    height: "auto",
+                    cursor: "pointer",
+                    marginBottom: "15px",
+                  }}
+                  />
               <img
-                src="logo.png"
+                src="images/Dev.png"
                 alt="logo of DevHack"
-                style={{ width: "300px", height: "auto", cursor: "pointer" }}
+                style={{ width: "400px", height: "auto", cursor: "pointer", }}
               />
               <Typography
                 color="white"
@@ -57,7 +68,7 @@ export default function Hero() {
                   fontSize: "22px",
                 }}
               >
-                An initiative by
+                A 24-Hour Hackathon
               </Typography>
               <Typography
                 color="text.secondary"
@@ -69,7 +80,8 @@ export default function Hero() {
                   color: "#5DB8DE",
                 }}
               >
-                AJIET Mangalore
+                Initiated by Dept. CSE Enigma
+                <br />in association with DevNation
               </Typography>
               <Typography
                 color="white"
@@ -80,7 +92,7 @@ export default function Hero() {
                   fontSize: "22px",
                 }}
               >
-                Institute of Engineering and Technology
+               A J Institute of Engineering and Technology
               </Typography>
               <Typography
                 color="white"
@@ -104,13 +116,13 @@ export default function Hero() {
                 <TypeAnimation
                   sequence={[
                     // Same substring at the start will only be typed once, initially
+                    "29th November 2024",
+                    1000,
                     "Code | Create | Conquer",
                     1000,
                     "Battle of Development",
                     1000,
                     "Mark the Date",
-                    1000,
-                    "01.11.2024",
                     1000,
                   ]}
                   speed={50}
@@ -118,23 +130,47 @@ export default function Hero() {
                 />
               </Typography>
               <div className="flex md:flex-row text-center gap-2">
+                  <img
+                    className="flex"
+                    src="/images/ajiet.png"
+                    alt="logo of DevHack"
+                    style={{
+                      width: "100px",
+                      height: "auto",
+                      cursor: "pointer",
+                      marginBottom: "15px",
+                    }}
+                  />
                 <img
                   className="flex"
-                  src="/images/sponsor.jpg"
+                  src="/images/enigma.png"
                   alt="logo of DevHack"
                   style={{
-                    width: "100px",
+                    width: "110px",
                     height: "auto",
                     cursor: "pointer",
                     marginBottom: "15px",
                   }}
-                />
+                  />
                 <img
                   className="flex"
-                  src="/images/sponsor.jpg"
+                  src="/images/enigma.png"
                   alt="logo of DevHack"
                   style={{
-                    width: "100px",
+                    width: "110px",
+                    height: "auto",
+                    cursor: "pointer",
+                    marginBottom: "15px",
+                  }}
+                  />
+                  </div>
+              <div className="flex md:flex-row text-center gap-2">
+                <img
+                  className="flex"
+                  src="/logo.png"
+                  alt="logo of DevHack"
+                  style={{
+                    width: "350px",
                     height: "auto",
                     cursor: "pointer",
                     marginBottom: "15px",
