@@ -3,8 +3,7 @@ const rulesRegulation = () => {
     <section className="bg-inherit ">
       <div className="p-8 lg:p-12 lg:px-16 lg:py-20 sm:max-lg:pt-20">
         <div
-          className="mx-auto max-w-5xl text-center mt-20"
-          style={{ fontFamily: 'blanka' }}
+          className="mx-auto max-w-5xl text-center mt-20 font-blanka"
         >
           <h1 className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-5xl font-extrabold text-transparent sm:text-4xl">
             RULES AND REGULATIONS

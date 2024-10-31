@@ -14,7 +14,7 @@ const Structure: React.FC<StructureProps> = ({ domain, faqs }) => {
   return (
     <section className="bg-inherit">
       <div className="p-4 sm:p-8 md:p-12 lg:px-16 lg:py-20 sm:max-lg:pt-20">
-        <div className="mx-auto max-w-5xl text-center mt-20" style={{ fontFamily: "blanka" }}>
+        <div className="mx-auto max-w-5xl text-center mt-20 font-blanka">
           <h1 className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl sm:text-3xl md:text-5xl pb-2 font-extrabold text-transparent">
             {domain}
           </h1>
