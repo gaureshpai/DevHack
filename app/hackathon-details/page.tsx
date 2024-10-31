@@ -221,7 +221,7 @@ function Home() {
                   color: "white",
                 }}
               >
-                Begins on 1st November, 2024 and ends on 15th November, 2024.
+                Begins on 1st November, 2024 and ends on 18th November, 2024.
               </Typography>
             </Box>
           </Stack>

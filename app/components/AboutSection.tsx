@@ -13,7 +13,7 @@ function AboutSection() {
       <Container>
         <Container
           sx={{
-            mt: { sm: 10 },
+            mt: { sm: 6 },
             alignSelf: "center",
             alignContent: "middle ",
             alignItems: "center",
@@ -103,7 +103,7 @@ function AboutSection() {
               <Typography
                 color="white"
                 sx={{
-                  alignSelf: "left",
+                  alignSelf: "center",
                   width: { sm: "100%", md: "100%" },
                   fontFamily: "Varela",
                   fontSize: "22px",
