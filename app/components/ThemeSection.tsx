@@ -8,7 +8,8 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { themes } from "./ThemesList";
 import Link from "next/link";
-import "./fonts/font.css";
+import "@/public/fonts/font.css";
+import Image from "next/image";
 
 function ThemeSection() {
   var settings = {
@@ -82,7 +83,9 @@ function ThemeSection() {
               transition={{ type: "spring", stiffness: 400, damping: 10 }}
             >
               <div className="group relative block  rounded-xl bg-black sm:max-lg:mx-3 lg:mx-7 lg:my-10">
-                <img
+                <Image
+                  width={400}
+                  height={400}
                   alt={theme.title}
                   src={theme.image}
                   className="absolute inset-0 h-full w-full object-cover rounded-xl opacity-75 transition-opacity group-hover:opacity-50"

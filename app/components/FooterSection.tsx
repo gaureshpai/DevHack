@@ -9,7 +9,6 @@ const FooterSection = () => {
     // { icon: <Facebook />, url: '', name: 'Facebook' },
     { icon: <Instagram />, url: 'https://www.instagram.com/enigma._aj/', name: 'Instagram' },
     { icon: <LinkedIn />, url: 'https://www.linkedin.com/in/enigma-cse-association-a1615b335/', name: 'LinkedIn' },
-    { icon: <Twitter />, url: '', name: 'Twitter' },
     { icon: <GitHub />, url: 'https://github.com/Ajiet-DevNation/', name: 'Github' },
   ];
 

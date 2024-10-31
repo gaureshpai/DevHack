@@ -1,6 +1,6 @@
 import { AnimatePresence, motion } from "framer-motion";
 import { useState } from "react";
-import "./fonts/font.css";
+import "@/public/fonts/font.css";
 
 const FlyoutLink = ({
   children,

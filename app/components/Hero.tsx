@@ -6,8 +6,9 @@ import Stack from "@mui/material/Stack";
 import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
 import { TypeAnimation } from "react-type-animation";
-import "./fonts/font.css";
+import "@/public/fonts/font.css";
 import Timer from "./Timer";
+import Image from "next/image";
 
 export default function Hero() {
   useEffect(() => {
@@ -43,10 +44,12 @@ export default function Hero() {
             sx={{ width: { xs: "80%", sm: "40%" }, mt: { xs: 10, sm: 8 } }}
           >
             <Stack spacing={2}>
-            <img
+            <Image
                   className="flex"
                   src="/images/enigma.png"
                   alt="logo of DevHack"
+                  width={400}
+                  height={400}
                   style={{
                     width: "110px",
                     height: "auto",
@@ -54,8 +57,10 @@ export default function Hero() {
                     marginBottom: "15px",
                   }}
                   />
-              <img
-                src="images/Dev.png"
+              <Image
+                width={400}
+                height={400}
+                src="/images/Dev.png"
                 alt="logo of DevHack"
                 style={{ width: "400px", height: "auto", cursor: "pointer", }}
               />
@@ -130,7 +135,9 @@ export default function Hero() {
                 />
               </Typography>
               <div className="flex md:flex-row text-center gap-2">
-                  <img
+                  <Image
+                    width={400}
+                    height={400}
                     className="flex"
                     src="/images/ajiet.png"
                     alt="logo of DevHack"
@@ -141,7 +148,9 @@ export default function Hero() {
                       marginBottom: "15px",
                     }}
                   />
-                <img
+                <Image
+                  width={400}
+                  height={400}
                   className="flex"
                   src="/images/enigma.png"
                   alt="logo of DevHack"
@@ -152,7 +161,9 @@ export default function Hero() {
                     marginBottom: "15px",
                   }}
                   />
-                <img
+                <Image
+                  width={400}
+                  height={400}
                   className="flex"
                   src="/images/enigma.png"
                   alt="logo of DevHack"
@@ -165,7 +176,9 @@ export default function Hero() {
                   />
                   </div>
               <div className="flex md:flex-row text-center gap-2">
-                <img
+                <Image
+                  width={400}
+                  height={400}
                   className="flex"
                   src="/logo.png"
                   alt="logo of DevHack"
@@ -191,7 +204,9 @@ export default function Hero() {
             }}
           >
             <Box sx={{ textAlign: "right" }}>
-              <img
+              <Image
+                width={500}
+                height={500}
                 src="/images/hand.png"
                 alt="hand"
                 style={{

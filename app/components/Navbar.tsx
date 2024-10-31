@@ -11,11 +11,12 @@ import Typography from "@mui/material/Typography";
 import MenuItem from "@mui/material/MenuItem";
 import Drawer from "@mui/material/Drawer";
 import MenuIcon from "@mui/icons-material/Menu";
-import "./fonts/font.css";
+import "@/public/fonts/font.css";
 import Link from "next/link";
-import "./styles/navbar.css";
+import "@/public/styles/navbar.css";
 
 import FlyoutLink from "./FlyoutContent";
+import Image from "next/image";
 
 const logoStyle = {
   width: "100px",
@@ -97,9 +98,11 @@ function NavBar() {
                 }}
               >
                 <Link href="/">
-                  <img
+                  <Image
+                    width={400}
+                    height={400}
                     onClick={() => scrollToSection("hero")}
-                    src="images/Dev.png"
+                    src="/images/Dev.png"
                     style={logoStyle}
                     alt="logo"
                   />

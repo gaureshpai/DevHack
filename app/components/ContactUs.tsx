@@ -1,6 +1,6 @@
 'use client';
 
-import './fonts/font.css';
+import '@/public/fonts/font.css';
 import { FaLocationDot } from 'react-icons/fa6';
 import { IoMdCall } from 'react-icons/io';
 import { MdEmail } from 'react-icons/md';
