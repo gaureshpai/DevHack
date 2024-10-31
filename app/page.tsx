@@ -1,12 +1,10 @@
-import dynamic from 'next/dynamic';
 import Hero from "./components/Hero";
 import React from 'react';
-
-const AboutSection = dynamic(() => import('./components/AboutSection'), { suspense: true });
-const ThemeSection = dynamic(() => import('./components/ThemeSection'), { suspense: true });
-const ProcessFlow = dynamic(() => import('./components/ProcessFlow'), { suspense: true });
-const PrizeSection = dynamic(() => import('./components/PrizeSection'), { suspense: true });
-const Sponsors = dynamic(() => import('./components/SponsorsSection'), { suspense: true });
+import AboutSection from './components/AboutSection';
+import ThemeSection from './components/ThemeSection';
+import ProcessFlow2 from './components/ProcessFlow';
+import PrizeSection from './components/PrizeSection';
+import Sponsors from './components/SponsorsSection';
 
 export default function Home() {
   return (
@@ -15,7 +13,7 @@ export default function Home() {
       <React.Suspense fallback={<div>Loading...</div>}>
         <AboutSection />
         <ThemeSection />
-        <ProcessFlow />
+        <ProcessFlow2 />
         <PrizeSection />
         <Sponsors />
       </React.Suspense>
