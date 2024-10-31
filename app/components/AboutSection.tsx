@@ -4,7 +4,8 @@ import Container from "@mui/material/Container";
 import Stack from "@mui/material/Stack";
 import Grid from "@mui/material/Grid";
 
-import "./fonts/font.css";
+import "@/public/fonts/font.css";
+import Image from "next/image";
 
 function AboutSection() {
   return (
@@ -59,9 +60,11 @@ function AboutSection() {
               display: { xs: "none", sm: "block" },
             }}
           >
-            <img
+            <Image
               src="/images/coder.png"
               alt="About us image"
+              width={400}
+              height={400}
               style={{ width: "400px", height: "auto", cursor: "pointer" }}
             />
           </Grid>

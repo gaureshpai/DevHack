@@ -1,10 +1,11 @@
 "use client";
 
-import "./styles/ProcessFlow.css";
+import "@/public/styles/ProcessFlow.css";
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
+import Image from "next/image";
 
 function ProcessFlow2() {
   const [isMobile, setIsMobile] = useState(false);
@@ -102,7 +103,9 @@ function ProcessFlow2() {
               {isMobile ? (
                 <div className="info">
                   <h3 className="title">
-                    <img
+                    <Image
+                      width={400}
+                      height={400}
                       src={`/images/process-flow/${img}`}
                       alt={`Step ${step}`}
                       id={`img${step}`}
@@ -119,7 +122,9 @@ function ProcessFlow2() {
                   transition={{ type: "spring", stiffness: 70, damping:12 }}
                 >
                   <h3 className="title">
-                    <img
+                    <Image
+                      width={400}
+                      height={400}
                       src={`/images/process-flow/${img}`}
                       alt={`Step ${step}`}
                       id={`img${step}`}

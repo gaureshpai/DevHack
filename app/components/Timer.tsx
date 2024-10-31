@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useRef, useEffect } from "react"
-import './fonts/font.css'
+import '@/public/fonts/font.css'
 
 export default function Timer() {
   const endTime = new Date("2024-11-29T23:59:59Z")
