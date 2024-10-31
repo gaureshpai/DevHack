@@ -134,60 +134,27 @@ export default function Hero() {
                   repeat={Infinity}
                 />
               </Typography>
-              <div className="flex md:flex-row text-center gap-2">
-                  <Image
-                    width={400}
-                    height={400}
-                    className="flex"
-                    src="/images/ajiet.png"
-                    alt="logo of DevHack"
-                    style={{
-                      width: "100px",
-                      height: "auto",
-                      cursor: "pointer",
-                      marginBottom: "15px",
-                    }}
-                  />
+              <div className="grid grid-cols-2 md:grid-cols-3 text-center">
                 <Image
                   width={400}
                   height={400}
-                  className="flex"
+                  src="/images/ajiet.png"
+                  alt="logo of DevHack"
+                  className="w-[100px] h-auto cursor-pointer mb-4"
+                />
+                <Image
+                  width={400}
+                  height={400}
                   src="/images/enigma.png"
                   alt="logo of DevHack"
-                  style={{
-                    width: "110px",
-                    height: "auto",
-                    cursor: "pointer",
-                    marginBottom: "15px",
-                  }}
-                  />
+                  className="w-[110px] h-auto cursor-pointer mb-4"
+                />
                 <Image
                   width={400}
                   height={400}
-                  className="flex"
                   src="/images/enigma.png"
                   alt="logo of DevHack"
-                  style={{
-                    width: "110px",
-                    height: "auto",
-                    cursor: "pointer",
-                    marginBottom: "15px",
-                  }}
-                  />
-                  </div>
-              <div className="flex md:flex-row text-center gap-2">
-                <Image
-                  width={400}
-                  height={400}
-                  className="flex"
-                  src="/logo.png"
-                  alt="logo of DevHack"
-                  style={{
-                    width: "350px",
-                    height: "auto",
-                    cursor: "pointer",
-                    marginBottom: "15px",
-                  }}
+                  className="w-[110px] h-auto cursor-pointer mb-4"
                 />
               </div>
             </Stack>

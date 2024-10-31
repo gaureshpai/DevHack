@@ -103,8 +103,7 @@ function ThemeSection() {
                       }}
                     >
                       <p
-                        className="text-xl font-bold text-white text-center sm:text-2xl mt-2"
-                        style={{ fontFamily: "blanka" }}
+                        className="text-xl font-bold text-white text-center sm:text-2xl mt-2 font-blanka"
                       >
                         {theme.title}
                       </p>
@@ -115,8 +114,7 @@ function ThemeSection() {
                         className="group inline-block rounded-full bg-gradient-to-r from-[#3F80FF] to-[#5CE1E6] p-[2px] hover:text-[#0F337F] focus:outline-none focus:ring active:text-opacity-75"
                       >
                         <span
-                          className="block rounded-full bg-white px-8 py-3 text-sm font-medium group-hover:bg-transparent"
-                          style={{ fontFamily: "Varela" }}
+                          className="block rounded-full bg-white px-8 py-3 text-sm font-medium group-hover:bg-transparent font-Varela"
                         >
                           Know more
                         </span>

@@ -3,14 +3,13 @@ const FAQ= () => {
     <section className="bg-inherit ">
       <div className="p-8 md:p-12 lg:px-16 lg:py-20 sm:max-lg:pt-20">
         <div
-          className="mx-auto max-w-5xl text-center mt-20"
-          style={{ fontFamily: "blanka" }}
+          className="mx-auto max-w-5xl text-center mt-20 font-blanka"
         >
           <h1 className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text font-extrabold text-transparent text-5xl sm:text-5xl">
             FAQs
           </h1>
         </div>
-        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-10" style={{ fontFamily: "Varela" }}>
+        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-10 font-Varela">
           <input placeholder="down" type="radio" name="my-accordion-2" defaultChecked />
           <div className="collapse-title text-xs sm:text-sm md:text-xl font-medium">
             Who is eligible to participate in the DevHack Hackathon?
@@ -21,7 +20,7 @@ const FAQ= () => {
             </p>
           </div>
         </div>
-        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5" style={{ fontFamily: "Varela" }}>
+        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5 font-Varela">
           <input placeholder="down" type="radio" name="my-accordion-2" />
           <div className="collapse-title text-xs sm:text-sm md:text-xl font-medium">
             How can I select a mentor for my team?{" "}
@@ -32,7 +31,7 @@ const FAQ= () => {
             </p>
           </div>
         </div>
-        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5" style={{ fontFamily: "Varela" }}>
+        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5 font-Varela">
           <input placeholder="down" type="radio" name="my-accordion-2" />
           <div className="collapse-title text-xs sm:text-sm md:text-xl font-medium">
             What is the team formation criteria?{" "}
@@ -44,7 +43,7 @@ const FAQ= () => {
             </p>
           </div>
         </div>
-        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5" style={{ fontFamily: "Varela" }}>
+        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5 font-Varela">
           <input placeholder="down" type="radio" name="my-accordion-2" />
           <div className="collapse-title text-xs sm:text-sm md:text-xl font-medium">
             How do we register for the DevHack Hackathon?{" "}
@@ -55,7 +54,7 @@ const FAQ= () => {
             </p>
           </div>
         </div>
-        <div className="collapse collapse-arrow md:w-3/4 mx-auto  transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5" style={{ fontFamily: "Varela" }}>
+        <div className="collapse collapse-arrow md:w-3/4 mx-auto  transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5 font-Varela">
           <input placeholder="down" type="radio" name="my-accordion-2" />
           <div className="collapse-title text-xs sm:text-sm md:text-xl font-medium">
             What is required for the Primary Registration?
@@ -66,7 +65,7 @@ const FAQ= () => {
             </p>
           </div>
         </div>
-        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5" style={{ fontFamily: "Varela" }}>
+        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5 font-Varela">
           <input placeholder="down" type="radio" name="my-accordion-2" />
           <div className="collapse-title text-xs sm:text-sm md:text-xl font-medium">
             How do we submit our idea for approval?
@@ -77,7 +76,7 @@ const FAQ= () => {
             </p>
           </div>
         </div>
-        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5" style={{ fontFamily: "Varela" }}>
+        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5 font-Varela">
           <input placeholder="down" type="radio" name="my-accordion-2" />
           <div className="collapse-title text-xs sm:text-sm md:text-xl font-medium">
             What happens after Idea Submission?{" "}
@@ -88,7 +87,7 @@ const FAQ= () => {
             </p>
           </div>
         </div>
-        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5" style={{ fontFamily: "Varela" }}>
+        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5 font-Varela">
           <input placeholder="down" type="radio" name="my-accordion-2" />
           <div className="collapse-title text-xs sm:text-sm md:text-xl font-medium">
             How do we register for the Grand Finale?{" "}
@@ -99,7 +98,7 @@ const FAQ= () => {
             </p>
           </div>
         </div>
-        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5" style={{ fontFamily: "Varela" }}>
+        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5 font-Varela">
           <input placeholder="down" type="radio" name="my-accordion-2" />
           <div className="collapse-title text-xs sm:text-sm md:text-xl font-medium">
             Where will the Grand Finale take place?{" "}
@@ -110,7 +109,7 @@ const FAQ= () => {
             </p>
           </div>
         </div>
-        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5" style={{ fontFamily: "Varela" }}>
+        <div className="collapse collapse-arrow md:w-3/4 mx-auto transition hover:shadow-lg hover:bg-white/10 hover:border-white/10 border-gray-800 bg-gray-900 text-white mt-5 font-Varela">
           <input placeholder="down" type="radio" name="my-accordion-2" />
           <div className="collapse-title text-xs sm:text-sm md:text-xl font-medium">
             What are the requirements during the Grand Finale?{" "}

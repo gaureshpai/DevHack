@@ -29,7 +29,7 @@ const ContactUs = () => {
       </button>
       <dialog id="my_modal_2" className="modal">
         <div className="modal-box bg-gradient-to-r from-cyan-500 to-blue-500">
-          <h3 className="font-bold text-3xl lg:text-5xl mb-10 text-center text-[#074081]" style={{fontFamily: "blanka",}}>
+          <h3 className="font-bold text-3xl lg:text-5xl mb-10 text-center text-[#074081] font-blanka">
             CONTACT US
           </h3>
           <p className="py-4 flex flex-row text-sm lg:text-xl">

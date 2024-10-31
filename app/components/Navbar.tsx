@@ -127,11 +127,10 @@ function NavBar() {
                     sx={{ py: "5px", px: "10px", my: "6px", mx: "3px" }}
                   >
                     <Typography
-                      className="underline-animation"
+                      className="underline-animation font-Varela"
                       variant="body2"
                       color="white"
                       fontSize="18px"
-                      fontFamily="Varela"
                     >
                       Problem Statements
                     </Typography>
