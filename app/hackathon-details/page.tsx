@@ -5,6 +5,7 @@ import Grid from "@mui/material/Grid";
 import Button from "@mui/material/Button";
 import { Box } from "@mui/material";
 import Image from "next/image";
+import Link from "next/link";
 
 function Home() {
   return (
@@ -90,7 +91,7 @@ function Home() {
         </Box>
       </Stack>
       <Box className="flex flex-col justify-center items-center mt-10 p-2">
-        <a
+        <Link
           rel="noopener"
           href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31111.06943415277!2d74.828766!3d12.915197!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba35a7940000001%3A0x37b1d2f42900de85!2sAJ%20Institute%20of%20Engineering%20%26%20Technology!5e0!3m2!1sen!2sus!4v1728167304095!5m2!1sen!2sus"
           target="_blank"
@@ -103,7 +104,7 @@ function Home() {
             alt="location"
             style={{}}
           />
-        </a>
+        </Link>
         <Button
           sx={{
             marginTop: 5,

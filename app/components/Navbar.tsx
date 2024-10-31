@@ -408,14 +408,14 @@ const TeamContent = () => {
     <div className="w-64 p-6">
       <div className="mb-1 space-y-3">
         <h3 className="font-semibold">
-          <a href="/executive-team" className="block hover:underline">
+          <Link href="/executive-team" className="block hover:underline">
             Executive Team
-          </a>
+          </Link>
         </h3>
         <h3 className="font-semibold">
-          <a href="/student-body" className="block hover:underline">
+          <Link href="/student-body" className="block hover:underline">
             Student Body
-          </a>
+          </Link>
         </h3>
       </div>
     </div>

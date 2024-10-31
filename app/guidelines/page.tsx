@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { FaFileDownload } from "react-icons/fa";
 
 
@@ -179,13 +180,13 @@ const Guidelines = () => {
           Download the Consent letter from the download button bellow.
         </p>
         <div className="flex flex-wrap justify-center gap-4">
-          <a
+          <Link
             className="flex justify-center gap-4 w-full rounded border border-blue-600 px-12 py-3 text-sm font-medium text-white hover:bg-blue-600 focus:outline-none focus:ring active:bg-blue-500 sm:w-auto"
             href="/files/consentLetter.docx"
             download="Consent Letter"
           >
             DOWNLOAD <FaFileDownload className="text-lg" />
-          </a>
+          </Link>
           </div>
         </div>
       </div>

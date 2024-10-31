@@ -1,6 +1,7 @@
 import { AnimatePresence, motion } from "framer-motion";
 import { useState } from "react";
 import "@/public/fonts/font.css";
+import Link from "next/link";
 
 const FlyoutLink = ({
   children,
@@ -21,7 +22,7 @@ const FlyoutLink = ({
       onMouseLeave={() => setOpen(false)}
       className="relative w-fit h-fit"
     >
-      <a href={href} className="relative text-white">
+      <Link href={href} className="relative text-white">
         {children}
         <span
           style={{
@@ -29,7 +30,7 @@ const FlyoutLink = ({
           }}
           className="absolute -bottom-2 -left-2 -right-2 h-1 origin-left scale-x-0 rounded-full bg-[#6366f1] transition-transform duration-300 ease-out"
         />
-      </a>
+      </Link>
       <AnimatePresence>
         {showFlyout && (
           <motion.div
