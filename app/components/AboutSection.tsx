@@ -103,7 +103,7 @@ function AboutSection() {
               <Typography
                 color="white"
                 sx={{
-                  alignSelf: "center",
+                  alignSelf: "left",
                   width: { sm: "100%", md: "100%" },
                   fontFamily: "Varela",
                   fontSize: "22px",
