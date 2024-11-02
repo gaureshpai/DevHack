@@ -18,7 +18,7 @@ export const people = [
     description: "Web Dev, DevNation",
     role: "CC Member",
     designation: "CC Member",
-    image: "/images/team/student-team/jnanesh.jpeg",
+    image: "/images/team/student-team/jnanesh.png",
   },
   {
     name: "Dhanya Shetty",
