@@ -12,14 +12,14 @@
     "@emotion/cache": "^11.13.5",
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
-    "@mui/icons-material": "^6.1.8",
-    "@mui/material": "^6.1.8",
-    "@mui/material-nextjs": "^6.1.8",
+    "@mui/icons-material": "^6.1.9",
+    "@mui/material": "^6.1.9",
+    "@mui/material-nextjs": "^6.1.9",
     "@vercel/analytics": "^1.4.1",
     "@vercel/speed-insights": "^1.1.0",
     "clsx": "^2.1.1",
-    "framer-motion": "^11.11.17",
-    "lucide-react": "^0.460.0",
+    "framer-motion": "^11.12.0",
+    "lucide-react": "^0.462.0",
     "next": "^15.0.3",
     "react": "^18.3.1",
     "react-chrono": "^2.6.1",
@@ -31,7 +31,7 @@
     "react-social-icons": "^6.18.0",
     "react-type-animation": "^3.2.0",
     "slick-carousel": "^1.8.1",
-    "tailwind-merge": "^2.5.4"
+    "tailwind-merge": "^2.5.5"
   },
   "devDependencies": {
     "@types/node": "^22",
