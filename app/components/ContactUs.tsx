@@ -50,7 +50,7 @@ const ContactUs = () => {
                 color: '#074081',
               }}
             />
-            <div className="">
+            <div>
               <p className="py-4 text-sm lg:text-xl">Darshan Bhandary : (+91) 90190 03490</p>
               <p className="py-4 -mt-6 text-sm lg:text-xl">
                 Jnanesh : (+91) 90190 03490
