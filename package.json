@@ -18,7 +18,7 @@
     "@vercel/analytics": "^1.4.1",
     "@vercel/speed-insights": "^1.1.0",
     "clsx": "^2.1.1",
-    "framer-motion": "^11.15.0",
+    "framer-motion": "^11.17.0",
     "lucide-react": "^0.469.0",
     "next": "^15.1.2",
     "react": "^18.3.1",
